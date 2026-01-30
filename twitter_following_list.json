@@ -5,7 +5,7 @@
     "bio": "The AI that does things. Emails, calendar, home automation, from your favorite chat app. Your machine, your rules. New shell, same lobster soul. 🦞",
     "avatar_url": "https://unavatar.io/x/openclaw",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -14,7 +14,7 @@
     "bio": "Claude Cowork @AnthropicAI, Co-Maintainer electronjs.org",
     "avatar_url": "https://unavatar.io/x/felixrieseberg",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "bio": "I build & teach AI stuff. Founder @TakeoffAI + @AgentShareAI. Come learn to use AI at JoinTakeoff.com.",
     "avatar_url": "https://unavatar.io/x/mckaywrigley",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -32,7 +32,7 @@
     "bio": "@stripe startups",
     "avatar_url": "https://unavatar.io/x/michelleefang",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -41,7 +41,7 @@
     "bio": "Founder @Tensol_ai (YC W26) - Self taught software engineer from business school, previously @ Stacksync (YC W24), AEHL",
     "avatar_url": "https://unavatar.io/x/olivieropinotti",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -59,7 +59,7 @@
     "bio": "Old man yelling at Claudes. The fucking bluecheck is temporary...",
     "avatar_url": "https://unavatar.io/x/badlogicgames",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "bio": "the bunny talisman of yearn",
     "avatar_url": "https://unavatar.io/x/banteg",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -77,7 +77,7 @@
     "bio": "@cursor_ai CEO",
     "avatar_url": "https://unavatar.io/x/mntruell",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -86,7 +86,7 @@
     "bio": "making @obsdmd",
     "avatar_url": "https://unavatar.io/x/kepano",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -95,7 +95,7 @@
     "bio": "Self-driving infrastructure @Vercel CTO. Immigrant 🇺🇸/🇩🇪 /acc",
     "avatar_url": "https://unavatar.io/x/cramforce",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -104,7 +104,7 @@
     "bio": "Claude Code @anthropicai",
     "avatar_url": "https://unavatar.io/x/bcherny",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -113,7 +113,7 @@
     "bio": "Polyagentmorous. Came back from retirement to mess with AI and help a lobster take over the world @openclaw 🦞",
     "avatar_url": "https://unavatar.io/x/steipete",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -140,7 +140,7 @@
     "bio": "Founder and CEO @Zipline. Previously, built DNA/RNA computers and climbing walls. Harvard grad. Ex-professional rock climber.",
     "avatar_url": "https://unavatar.io/x/Keller",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -149,7 +149,7 @@
     "bio": "TSM is a student-powered research initiative dedicated to informing the public on cross-Strait security. Directed by GMU's @MichaelHunzeker. Usual disclaimers.",
     "avatar_url": "https://unavatar.io/x/TaiwanMonitor",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -158,7 +158,7 @@
     "bio": "Prev. PhD @Stockholm_Uni | Alumni @KTHuniversity @uppsalauni Sharing insights on AI, autonomous agents, and large language & reasoning models",
     "avatar_url": "https://unavatar.io/x/dongxi_nlp",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -167,7 +167,7 @@
     "bio": "CEO @NotionHQ. Malleable software. Tools for thought.",
     "avatar_url": "https://unavatar.io/x/ivanhzhao",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -185,7 +185,7 @@
     "bio": "The frontier coding agent.",
     "avatar_url": "https://unavatar.io/x/AmpCode",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -203,7 +203,7 @@
     "bio": "VP of Research & Deep Learning Lead, Google DeepMind. Gemini co-lead. Past: AlphaStar, AlphaFold, AlphaCode, WaveNet, seq2seq, distillation, TF.",
     "avatar_url": "https://unavatar.io/x/OriolVinyalsML",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -212,7 +212,7 @@
     "bio": "Founder/CEO working on @CharmIndustrial, @RevoyInc, Antipode. MIT aerospace. Mad fanboy of @embrein. Lots to learn.",
     "avatar_url": "https://unavatar.io/x/reinpk",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -221,7 +221,7 @@
     "bio": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Opinions stated here are my own, not those of Google. TensorFlow, MapReduce, Bigtable, ...",
     "avatar_url": "https://unavatar.io/x/JeffDean",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -230,7 +230,7 @@
     "bio": "I help invent the future. CTO @cloudflare. Angel investor.",
     "avatar_url": "https://unavatar.io/x/dok2001",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -252,21 +252,12 @@
     ]
   },
   {
-    "handle": "@aztecnetwork",
-    "name": "Aztec",
-    "bio": "Aztec is the Private World Computer.",
-    "avatar_url": "https://unavatar.io/x/aztecnetwork",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
     "handle": "@TarunAmasa",
     "name": "Tarun Amasa",
     "bio": "Thiel Fellow | CEO of Endex: AI For Excel @endexai",
     "avatar_url": "https://unavatar.io/x/TarunAmasa",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -275,7 +266,7 @@
     "bio": "Making the next 1 billion agents fast, safe, and reliable. Agents suck. We're fixing that. (DMs open) http://agentops.ai Agent Consulting: http://agen.cy",
     "avatar_url": "https://unavatar.io/x/AgentOpsAI",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -284,7 +275,7 @@
     "bio": "Autonomous Productivity",
     "avatar_url": "https://unavatar.io/x/cobotapp",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -293,7 +284,7 @@
     "bio": "Agent Consulting: http://Agen.cy \nAgent Observability: @AgentOpsAI + http://AgentOps.ai \nFunding Agents: http://AgentFund.com",
     "avatar_url": "https://unavatar.io/x/adamsilverman",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -311,7 +302,7 @@
     "bio": "cto @FactoryAI - Building software that builds software",
     "avatar_url": "https://unavatar.io/x/EnoReyes",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -320,7 +311,7 @@
     "bio": "ceo @FactoryAI",
     "avatar_url": "https://unavatar.io/x/matanSF",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -329,7 +320,7 @@
     "bio": "Assembling @droid, the frontier software development agent. Available to anyone, with any model, in any IDE/terminal.",
     "avatar_url": "https://unavatar.io/x/FactoryAI",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -338,16 +329,7 @@
     "bio": "CEO and Co-Founder @RobinhoodApp Executive Chairman and Co-Founder @HarmonicMath ‍",
     "avatar_url": "https://unavatar.io/x/vladtenev",
     "tags": [
-      "finance"
-    ]
-  },
-  {
-    "handle": "@ritualfnd",
-    "name": "Ritual Foundation",
-    "bio": "The Ritual Foundation is dedicated to the development, growth, and decentralization of the Ritual Chain @ritualnet and its ecosystem.",
-    "avatar_url": "https://unavatar.io/x/ritualfnd",
-    "tags": [
-      "crypto"
+      "finance-person"
     ]
   },
   {
@@ -366,7 +348,7 @@
     "avatar_url": "https://unavatar.io/x/llamaonthebrink",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -375,7 +357,7 @@
     "bio": "building http://chatwise.app and http://lorca.app",
     "avatar_url": "https://unavatar.io/x/localhost_5173",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -384,7 +366,7 @@
     "bio": "We're an AI research lab building search for the future | Most powerful web search API → https://exa.ai | High compute web search → https://exa.ai/websets",
     "avatar_url": "https://unavatar.io/x/ExaAILabs",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -393,7 +375,7 @@
     "bio": "skills that evolve with your agents.\nhttps://composio.dev",
     "avatar_url": "https://unavatar.io/x/composio",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -402,7 +384,7 @@
     "bio": "research & tooling @openai • delivered strawberries that one time",
     "avatar_url": "https://unavatar.io/x/ilanbigio",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -411,7 +393,7 @@
     "bio": "building something new http://agentdesk.ai",
     "avatar_url": "https://unavatar.io/x/tedx_ai",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -420,7 +402,7 @@
     "bio": "Brightwave is the AI research platform built to help professionals understand the world's most complex problems.",
     "avatar_url": "https://unavatar.io/x/brightwaveio",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -429,7 +411,7 @@
     "bio": "building a new ai co, @maisonagi (side proj), prev. AI research & product @OpenAI, @AnthropicAI",
     "avatar_url": "https://unavatar.io/x/karinanguyen_",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -438,7 +420,7 @@
     "bio": "Member of Technical Staff at Anthropic\nCo-founder at @CobaltRobotics\nCo-founder at Posmetrics (acquired)\nGoogleX, @SpaceX, @Harvard EE '15",
     "avatar_url": "https://unavatar.io/x/ErikSchluntz",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -447,7 +429,7 @@
     "bio": "Research Engineer @Anthropic",
     "avatar_url": "https://unavatar.io/x/barry_zyj",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -465,7 +447,7 @@
     "bio": "Previously at @a16z, @TrialSpark and @Google",
     "avatar_url": "https://unavatar.io/x/jeffreysilv",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -501,7 +483,7 @@
     "bio": "Permissionless and composable on/offramp protocol. Onramp to Base, Solana, Hyperliquid, Ethereum & 20+ chains and offramp to USD, EUR & 20+ currencies!",
     "avatar_url": "https://unavatar.io/x/zkp2p",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -510,7 +492,7 @@
     "bio": "Head of Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
     "avatar_url": "https://unavatar.io/x/ryolu_",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -519,7 +501,7 @@
     "bio": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
     "avatar_url": "https://unavatar.io/x/nikitabier",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -528,25 +510,7 @@
     "bio": "Building & Learning. Founder & CEO of @devv_ai. Ex-@tiktok_us.",
     "avatar_url": "https://unavatar.io/x/jiayuan_jy",
     "tags": [
-      "ai"
-    ]
-  },
-  {
-    "handle": "@kassandraETH",
-    "name": "mrs kzg.eth",
-    "bio": "married to a certain polynomial commitment scheme",
-    "avatar_url": "https://unavatar.io/x/kassandraETH",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "handle": "@own_hq",
-    "name": "OWN - Digital Asset Mortgages",
-    "bio": "Building DeFi for real world use - with lasting impact.\nBringing mortgages onchain!",
-    "avatar_url": "https://unavatar.io/x/own_hq",
-    "tags": [
-      "crypto"
+      "ai-person"
     ]
   },
   {
@@ -555,7 +519,7 @@
     "bio": "Shopify CEO by day, Dad in evening, hacker at night, Aspiring comprehensivist.",
     "avatar_url": "https://unavatar.io/x/tobi",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -564,7 +528,7 @@
     "bio": "AI Agents for document OCR + workflows\n\nGithub: https://t.co/HC19j7veGE\nDocs: https://t.co/QInqg2yMCJ\nLlamaCloud: https://t.co/yQGTiRSfFL",
     "avatar_url": "https://unavatar.io/x/llama_index",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -573,7 +537,7 @@
     "bio": "Making the next 1 billion agents fast, safe, and reliable. Agents suck. We're fixing that. (DMs open) http://agentops.ai Agent Consulting: http://agen.cy",
     "avatar_url": "https://unavatar.io/x/lexfridman",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -582,7 +546,7 @@
     "bio": "Autonomous Productivity",
     "avatar_url": "https://unavatar.io/x/EurekaLabsAI",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -591,7 +555,7 @@
     "bio": "Agent Consulting: http://Agen.cy \nAgent Observability: @AgentOpsAI + http://AgentOps.ai \nFunding Agents: http://AgentFund.com",
     "avatar_url": "https://unavatar.io/x/hedgeyfinance",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -609,7 +573,7 @@
     "bio": "cto @FactoryAI - Building software that builds software",
     "avatar_url": "https://unavatar.io/x/bindureddy",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -618,7 +582,7 @@
     "bio": "ceo @FactoryAI",
     "avatar_url": "https://unavatar.io/x/FanaHOVA",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -636,7 +600,7 @@
     "bio": "prev ottogrid (acq cohere)",
     "avatar_url": "https://unavatar.io/x/SullyOmarr",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -645,7 +609,7 @@
     "bio": "Excited about the future of intelligent software development. CEO & co-founder @QodoAI",
     "avatar_url": "https://unavatar.io/x/itamar_mar",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -654,7 +618,7 @@
     "bio": "@LangChain, previously @robusthq @kensho\n\nMLOps ∪ Generative AI ∪ sports analytics",
     "avatar_url": "https://unavatar.io/x/hwchase17",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -672,7 +636,7 @@
     "bio": "http://troynikov.io | founder @trychroma",
     "avatar_url": "https://unavatar.io/x/atroyn",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -690,7 +654,7 @@
     "bio": "Building the world's fastest airliner, Overture — optimized for speed, safety, and sustainability.",
     "avatar_url": "https://unavatar.io/x/boomsupersonic",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -699,7 +663,7 @@
     "bio": "The AI community building the future. http://hf.co/careers",
     "avatar_url": "https://unavatar.io/x/huggingface",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -708,7 +672,7 @@
     "bio": "Gavekal is one of the leading independent providers of global investment research. It also advises a select range of funds and offers software solutions.",
     "avatar_url": "https://unavatar.io/x/Gavekal",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -717,7 +681,7 @@
     "bio": "I run Terraformation, and I was once the CEO of Reddit. Both are very interesting challenges.\n\nViews are mine alone, but also yours if I do my job right.",
     "avatar_url": "https://unavatar.io/x/yishan",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -735,7 +699,7 @@
     "bio": "Researcher @deepseek_ai | Previously @nvidia @MonashUni @UniofAdelaide. Words are my own.",
     "avatar_url": "https://unavatar.io/x/zizhpan",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -744,7 +708,7 @@
     "bio": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
     "avatar_url": "https://unavatar.io/x/DrJimFan",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -762,7 +726,7 @@
     "bio": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
     "avatar_url": "https://unavatar.io/x/rasbt",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -771,7 +735,7 @@
     "bio": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/AqEvlVuYdM",
     "avatar_url": "https://unavatar.io/x/omarsar0",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -780,7 +744,7 @@
     "bio": "open-sourceress at @huggingface 🧙🏻‍♀️ https://t.co/MhrMkGTTWX",
     "avatar_url": "https://unavatar.io/x/mervenoyann",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -789,7 +753,7 @@
     "bio": "Notes on machines that help make knowledge | Director, ML & Data at @Wikimedia",
     "avatar_url": "https://unavatar.io/x/chrisalbon",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -798,7 +762,7 @@
     "bio": "AI Search @vespaengine, ex-@huggingface, World's First 4x GM @kaggle, YouTube 120k+: https://t.co/BHnem8fTu5",
     "avatar_url": "https://unavatar.io/x/abhi1thakur",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -807,7 +771,7 @@
     "bio": "Busy inventing the shipwreck. @Penn. Past: @johnshopkins, @UCSC, @Amazon, @Twitter ||Art: #NLProc, Vision, Speech, #DeepLearning || Life: 道元, improv, running 🌈",
     "avatar_url": "https://unavatar.io/x/deliprao",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -825,7 +789,7 @@
     "bio": "Tensors and neural networks in Python with strong hardware acceleration. PyTorch is an open source project at the Linux Foundation. #PyTorchFoundation",
     "avatar_url": "https://unavatar.io/x/PyTorch",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -834,7 +798,7 @@
     "bio": "Musician, math lover, cook, dancer, , and an ass prof of Computer Science at New York University",
     "avatar_url": "https://unavatar.io/x/alfcnz",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -843,7 +807,7 @@
     "bio": "Member of Technical Staff @perplexity_ai building @Comet",
     "avatar_url": "https://unavatar.io/x/marktenenholtz",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -861,16 +825,7 @@
     "bio": "Discover and use the latest LLMs. 500+ models (incl. 50+ free), explorable data, private chat, & a unified API. https://t.co/qJG5mKrigL",
     "avatar_url": "https://unavatar.io/x/OpenRouterAI",
     "tags": [
-      "ai"
-    ]
-  },
-  {
-    "handle": "@tribedotrun",
-    "name": "Tribe.run",
-    "bio": "Crypto social on Solana. Available on iOS and Android",
-    "avatar_url": "https://unavatar.io/x/tribedotrun",
-    "tags": [
-      "crypto"
+      "ai-entity"
     ]
   },
   {
@@ -879,16 +834,7 @@
     "bio": "Follow for posts about GitHub repos, DSPy, and agents\nSubscribe for top posts\nDM to share your AI project (Due to volume of DMs I'll prioritize subscribers)",
     "avatar_url": "https://unavatar.io/x/tom_doerr",
     "tags": [
-      "tech"
-    ]
-  },
-  {
-    "handle": "@Morveus",
-    "name": "David Balland",
-    "bio": "Quarantenaire père de famille grand patron d'industrie PDG milliardaire sapé comme un ado (d'après les médias)",
-    "avatar_url": "https://unavatar.io/x/Morveus",
-    "tags": [
-      "crypto"
+      "tech-person"
     ]
   },
   {
@@ -897,7 +843,7 @@
     "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
     "avatar_url": "https://unavatar.io/x/perplexity_ai",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -924,7 +870,7 @@
     "bio": "Turning AI models into supermodels. \n\nOur internal lab releases cool AI research & open source tools via https://t.co/xZMtSRR4mO",
     "avatar_url": "https://unavatar.io/x/fleek",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -942,7 +888,7 @@
     "bio": "Creator @datasetteproj, co-creator Django. PSF board. Hangs out with @natbat. He/Him. Mastodon: https://t.co/t0MrmnJW0K Bsky: https://t.co/OnWIyhX4CH",
     "avatar_url": "https://unavatar.io/x/simonw",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -951,7 +897,7 @@
     "bio": "A network of engineers enhanced by and building with AI. \n\nOrganizers of the AI Engineer Summit, AI Engineer World's Fair, and AI Engineer Europe.",
     "avatar_url": "https://unavatar.io/x/aiDotEngineer",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -960,7 +906,7 @@
     "bio": "CEO @boltdotnew",
     "avatar_url": "https://unavatar.io/x/EricSimons",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -969,16 +915,7 @@
     "bio": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
     "avatar_url": "https://unavatar.io/x/deepseek_ai",
     "tags": [
-      "ai"
-    ]
-  },
-  {
-    "handle": "@Etherealize_io",
-    "name": "Etherealize",
-    "bio": "All roads flow through ETH. We are an institutional product, BD, and marketing arm for the Ethereum ecosystem.",
-    "avatar_url": "https://unavatar.io/x/Etherealize_io",
-    "tags": [
-      "crypto"
+      "ai-entity"
     ]
   },
   {
@@ -1014,16 +951,7 @@
     "bio": "WLFI is building the future of finance. USD1 is just the beginning—trusted by users, institutions, and everyone in between. 🦅☝️",
     "avatar_url": "https://unavatar.io/x/worldlibertyfi",
     "tags": [
-      "finance"
-    ]
-  },
-  {
-    "handle": "@MistTrack_io",
-    "name": "MistTrack",
-    "bio": "A crypto tracking and compliance platform for everyone. Built by @SlowMist_Team",
-    "avatar_url": "https://unavatar.io/x/MistTrack_io",
-    "tags": [
-      "crypto"
+      "finance-person"
     ]
   },
   {
@@ -1032,7 +960,7 @@
     "bio": "Daily tutorials and insights on DS, ML, LLMs, and RAGs • Co-founder @dailydoseofds_ • IIT Varanasi • ex-AI Engineer @ MastercardAI",
     "avatar_url": "https://unavatar.io/x/_avichawla",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -1041,7 +969,7 @@
     "bio": "Stanford Professor of Linguistics and, by courtesy, of Computer Science. Member of technical staff @stanfordnlp and @StanfordAILab. Co-founder @ Bigspin AI.",
     "avatar_url": "https://unavatar.io/x/ChrisGPotts",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -1050,7 +978,7 @@
     "bio": "OpenHands is the leading open source agent for software development, usable through a CLI, GUI, SDK, or IDE https://t.co/LvSlDFkAwA",
     "avatar_url": "https://unavatar.io/x/OpenHandsDev",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -1063,30 +991,12 @@
     ]
   },
   {
-    "handle": "@charlesastarr",
-    "name": "Charles Starr",
-    "bio": "BD @CoinbaseDev",
-    "avatar_url": "https://unavatar.io/x/charlesastarr",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
     "handle": "@myshell_ai",
     "name": "MyShell.AI",
     "bio": "The first AI consumer layer - build, share, and own AI Apps. | Join the community https://t.co/aYJMrYZxOA",
     "avatar_url": "https://unavatar.io/x/myshell_ai",
     "tags": [
-      "ai"
-    ]
-  },
-  {
-    "handle": "@0xnagu",
-    "name": "0xnagu",
-    "bio": "Father. Husband. Thinker.",
-    "avatar_url": "https://unavatar.io/x/0xnagu",
-    "tags": [
-      "crypto"
+      "ai-entity"
     ]
   },
   {
@@ -1095,34 +1005,7 @@
     "bio": "Always-On Security for Decentralized Finance.",
     "avatar_url": "https://unavatar.io/x/LlamaRisk",
     "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "handle": "@PavelAltukhov",
-    "name": "Pavel Altukhov",
-    "bio": "Co-founder @TacBuild | Web3 infra for Telegram Super App | TVM-EVM Hybrid pioneer | Consumer App Evangelist",
-    "avatar_url": "https://unavatar.io/x/PavelAltukhov",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "handle": "@RyanChow_DeFi",
-    "name": "Ryan Chow",
-    "bio": "Co-founder @SolvProtocol | Pioneering BTCFi through $SolvBTC | Integrating BTC ETFs into BTCFi to unlock new liquidity for digital assets & RWA",
-    "avatar_url": "https://unavatar.io/x/RyanChow_DeFi",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "handle": "@zerobasezk",
-    "name": "ZEROBASE",
-    "bio": "Proving Network for Real Yield https://t.co/Y71G4wo3H9\nCA: 0xfab99fcf605fd8f4593edb70a43ba56542777777",
-    "avatar_url": "https://unavatar.io/x/zerobasezk",
-    "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1131,7 +1014,7 @@
     "bio": "Enabling real yield with RWA // $₿₿\n\nEcosystem: @BounceBitClub",
     "avatar_url": "https://unavatar.io/x/bouncebit",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1149,7 +1032,7 @@
     "bio": "@cantinaxyz @spearbit ceo // prev @solidity_lang, @ethereum",
     "avatar_url": "https://unavatar.io/x/hrkrshnn",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1167,7 +1050,7 @@
     "bio": "The best way to code with AI.",
     "avatar_url": "https://unavatar.io/x/cursor_ai",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -1176,7 +1059,7 @@
     "bio": "Building an open financial system @MoonwellDeFi and agentic finance @Mamo. Previously built Ethereum staking @coinbase and distributed systems @awscloud.",
     "avatar_url": "https://unavatar.io/x/LukeYoungblood",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -1185,7 +1068,7 @@
     "bio": "head of research @l2beat, native rollups @ethereum — scaling is caring, paperclip maxi",
     "avatar_url": "https://unavatar.io/x/donnoh_eth",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1194,7 +1077,7 @@
     "bio": "Tech founder & investor. Personal views only. Official account: @davidsacks47",
     "avatar_url": "https://unavatar.io/x/DavidSacks",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -1203,16 +1086,7 @@
     "bio": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o3 / o1 / 🍓 reasoning models",
     "avatar_url": "https://unavatar.io/x/polynoamial",
     "tags": [
-      "ai"
-    ]
-  },
-  {
-    "handle": "@Wonderland",
-    "name": "Wonderland",
-    "bio": "we’re all mad here",
-    "avatar_url": "https://unavatar.io/x/Wonderland",
-    "tags": [
-      "crypto"
+      "ai-person"
     ]
   },
   {
@@ -1230,7 +1104,7 @@
     "bio": "Bridge is an entirely new payments platform, built with stablecoins, to simplify global money movement. Learn more: https://t.co/5kh2t2HUzp",
     "avatar_url": "https://unavatar.io/x/Stablecoin",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -1239,7 +1113,7 @@
     "bio": "The Agent Engine",
     "avatar_url": "https://unavatar.io/x/griffaindotcom",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -1248,16 +1122,7 @@
     "bio": "The future of investment research is here. Fundamental research platform for global equities.  High quality financial data, available instantly.",
     "avatar_url": "https://unavatar.io/x/fiscal_ai",
     "tags": [
-      "finance"
-    ]
-  },
-  {
-    "handle": "@SimulacrumAI",
-    "name": "Simulacrum AI",
-    "bio": "AI agents that turn social media posts into onchain actions via @SimulacrumIO. Powered by @EmpyrealSDK $EMP",
-    "avatar_url": "https://unavatar.io/x/SimulacrumAI",
-    "tags": [
-      "crypto"
+      "finance-entity"
     ]
   },
   {
@@ -1266,7 +1131,7 @@
     "bio": "Empyreal builds the next generation of AI infrastructure. What's next begins here. $EMP",
     "avatar_url": "https://unavatar.io/x/EmpyrealSDK",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -1276,34 +1141,7 @@
     "avatar_url": "https://unavatar.io/x/Galois_Capital",
     "tags": [
       "crypto-trader",
-      "finance"
-    ]
-  },
-  {
-    "handle": "@joinember",
-    "name": "Ember",
-    "bio": "An all-in-one gaming platform where millions play original games, slots, and sports while earning Bitcoin.",
-    "avatar_url": "https://unavatar.io/x/joinember",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "handle": "@River",
-    "name": "River",
-    "bio": "Invest in bitcoin with confidence.",
-    "avatar_url": "https://unavatar.io/x/River",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "handle": "@tokenwell",
-    "name": "Tokenwell",
-    "bio": "Buy & Sell Crypto Baskets. Download the App👇",
-    "avatar_url": "https://unavatar.io/x/tokenwell",
-    "tags": [
-      "crypto"
+      "finance-person"
     ]
   },
   {
@@ -1312,7 +1150,7 @@
     "bio": "Build On Balancer http://discord.balancer.fi",
     "avatar_url": "https://unavatar.io/x/Balancer",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -1325,30 +1163,12 @@
     ]
   },
   {
-    "handle": "@wassielawyer",
-    "name": "wassieloyer",
-    "bio": "Biglaw restructuring lolyer turned hentai penguin in suit.\n\nCo-founder and Poltergeist @gvrn_ai, philosophy, therapy, strategy and diplomacy @JupiterExchange",
-    "avatar_url": "https://unavatar.io/x/wassielawyer",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
     "handle": "@vm_economics",
     "name": "Vending Machine",
     "bio": "A crypto-economic studio",
     "avatar_url": "https://unavatar.io/x/vm_economics",
     "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "handle": "@xulian_hl",
-    "name": "xulian.hl",
-    "bio": "Purring - Core contributor to @hyperliquidx 🫧",
-    "avatar_url": "https://unavatar.io/x/xulian_hl",
-    "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1357,7 +1177,7 @@
     "bio": "Building a full suite of products: Lite, @0xFluid, @Avowallet to bring DeFi to the masses.\n\nhttps://t.co/iA8kG0w5Wa",
     "avatar_url": "https://unavatar.io/x/Instadapp",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1366,7 +1186,7 @@
     "bio": "sharing some news: I’ve joined the one &amp; only @Uniswap 🦄\n\nso much appreciation for my time at @OpenSea &amp; will miss working with so many great people there\n\nexcited to help tackle big challenges facing our ecosystem, starting w/ cross-chain swaps (lmk if you’re working on this!)",
     "avatar_url": "https://unavatar.io/x/z0age",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1375,7 +1195,7 @@
     "bio": "The universal lending network",
     "avatar_url": "https://unavatar.io/x/Morpho",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1393,7 +1213,7 @@
     "bio": "I work for @Ethereum at the @Ethereumfndn",
     "avatar_url": "https://unavatar.io/x/0xstark",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1406,21 +1226,12 @@
     ]
   },
   {
-    "handle": "@usePicnic",
-    "name": "Picnic",
-    "bio": "Building the future of finance with Smart Accounts and seamless DeFi.\nCrypto for everyone. ✨\nLearn more at @usePicnicBR 🇧🇷",
-    "avatar_url": "https://unavatar.io/x/usePicnic",
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
     "handle": "@_jxom",
     "name": "jxom",
     "bio": "𝑤 @wevm_dev 𝘛 @tempo",
     "avatar_url": "https://unavatar.io/x/_jxom",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -1429,7 +1240,7 @@
     "bio": "CEO @perplexity_ai",
     "avatar_url": "https://unavatar.io/x/AravSrinivas",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1447,7 +1258,7 @@
     "bio": "A Web3 VC since 2014. Seeded ~20x 🦄s. Co-founder @Hack_VC. Previously: co-founder @Dragonfly_xyz, advisor @HuobiGlobal, @BainCapVC, @AngelList",
     "avatar_url": "https://unavatar.io/x/alpackaP",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1456,7 +1267,7 @@
     "bio": "Chef @zknoxhq | Co-founder @Ledger 🦄. I build permissionless and hard to break things. Fan of Magic Internet Money (but no MSB). Entrepreneur if duty calls",
     "avatar_url": "https://unavatar.io/x/BTChip",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1465,7 +1276,7 @@
     "bio": "@taichiaudit Founder | Web3 Security Researcher @yAuditDAO @plainshift @getfailsafe @fuzzland_ | Core Member @DeFiHackLabs",
     "avatar_url": "https://unavatar.io/x/ret2basic",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1474,7 +1285,7 @@
     "bio": "First futarchy on Ethereum",
     "avatar_url": "https://unavatar.io/x/_futarchy",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1492,7 +1303,7 @@
     "bio": "Recently green-pilled web2 storyteller and marketing wizard 🧙‍♀️ 🇳🇵 | Growth @jupiterexchange | Ex I am still in love with @superteamsg 🇸🇬",
     "avatar_url": "https://unavatar.io/x/eleesatt",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -1501,7 +1312,7 @@
     "bio": "Father, husband, gamer, ethereum core developer.",
     "avatar_url": "https://unavatar.io/x/URozmej",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1510,7 +1321,7 @@
     "bio": "Head of Blockchain Engineering @nethermind, working on @ethereum",
     "avatar_url": "https://unavatar.io/x/M25Marek",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1519,7 +1330,7 @@
     "bio": "Earn, Swap, and Borrow: All with maximum capital efficiency 🌊 | On Ethereum & EVM: Fluid | On Solana: @jup_lend | by @instadapp",
     "avatar_url": "https://unavatar.io/x/0xfluid",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1528,7 +1339,7 @@
     "bio": "Non-profit, independent collective building and maintaining the core infrastructure for Ethereum applications.",
     "avatar_url": "https://unavatar.io/x/argotorg",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1537,7 +1348,7 @@
     "bio": "making zk accessible to any developer. ceo @succinctlabs. prev @mit, google brain",
     "avatar_url": "https://unavatar.io/x/pumatheuma",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1546,7 +1357,7 @@
     "bio": "CEO @tether 🤖+ CTO @bitfinex 🍀 + co-founder @holepunch_to / @keet_io 🍐 + 🦓 + Tether AI @QVAC .\n(Views are my own)",
     "avatar_url": "https://unavatar.io/x/paoloardoino",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -1555,7 +1366,7 @@
     "bio": "Co-founder @ZKPassport 🌐 Honk pilled on @NoirLang 🪿 Building on @AztecNetwork",
     "avatar_url": "https://unavatar.io/x/michaelelliot",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1573,7 +1384,7 @@
     "bio": "CEO @glean",
     "avatar_url": "https://unavatar.io/x/jainarvind",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -1582,7 +1393,7 @@
     "bio": "Co-founder https://t.co/Ed61lTS2zn. Board member & former CEO at @SlushHQ. PC Gamer.",
     "avatar_url": "https://unavatar.io/x/MiikaHuttunen",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1591,7 +1402,7 @@
     "bio": "Accelerating the crypto frontier @tempo.",
     "avatar_url": "https://unavatar.io/x/ithacaxyz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1600,7 +1411,7 @@
     "bio": "The most widely read and trusted analysis of key developments in AI.",
     "avatar_url": "https://unavatar.io/x/stateofai",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -1609,7 +1420,7 @@
     "bio": "ex-programmer, failed Phil/osopher. resident painter ⚡️🤖, card carrying member of the linux militia.  been laying groundwork for a punchline that never landed",
     "avatar_url": "https://unavatar.io/x/phildaian",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1618,7 +1429,7 @@
     "bio": "Onchain social graph protocol for Ethereum accounts that complements @ensdomains & other elements of the Ethereum identity stack | by @ethidorg",
     "avatar_url": "https://unavatar.io/x/efp",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1627,7 +1438,7 @@
     "bio": "A collective effort to evaluate large language models on crypto-related tasks",
     "avatar_url": "https://unavatar.io/x/cryptobenchorg",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -1636,7 +1447,7 @@
     "bio": "Over 230 1:1 backed tokenized stocks, ETFs & more with dividends. US-based SEC transfer agent. Available on 5+ chains & via API.",
     "avatar_url": "https://unavatar.io/x/DinariGlobal",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1654,7 +1465,7 @@
     "bio": "Invest in early-stage cryptocurrency projects and new startups alongside notable angels. 🤍",
     "avatar_url": "https://unavatar.io/x/echodotxyz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1663,7 +1474,7 @@
     "bio": "程序猿 @sudoswap",
     "avatar_url": "https://unavatar.io/x/0xmons",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1672,7 +1483,7 @@
     "bio": "AI Educator. 𝕏 about AI, solutions and interesting things.  Showing how to leverage AI in practical ways for you and your business. Opinions are my own.",
     "avatar_url": "https://unavatar.io/x/minchoi",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -1681,7 +1492,7 @@
     "bio": "Loves decoding web3 data. Zero McDonald's experience (yet 🍟). Savoring One-Piece.",
     "avatar_url": "https://unavatar.io/x/0xsandeshk",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1690,7 +1501,7 @@
     "bio": "dev @ThePortMiami",
     "avatar_url": "https://unavatar.io/x/crispheaney",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1699,7 +1510,7 @@
     "bio": "Creating a general-purpose, high-bandwidth interface to the brain",
     "avatar_url": "https://unavatar.io/x/neuralink",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -1708,7 +1519,7 @@
     "bio": "Just to fill you in: I left the EF last year due to health issues and in an attempt to clear my head after working my ass off exclusively at the EF and on Ethereum for seven years.\n\nI stepped aside, and the EF and the broader Ethereum ecosystem moved on without missing a beat—new",
     "avatar_url": "https://unavatar.io/x/dannyryan",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1717,7 +1528,7 @@
     "bio": "Distributed research for distributed networks — crypto's go-to platform for onchain analytics.",
     "avatar_url": "https://unavatar.io/x/ournetwork__",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1726,7 +1537,7 @@
     "bio": "Eng @coinbase",
     "avatar_url": "https://unavatar.io/x/yugacohler",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1735,7 +1546,7 @@
     "bio": "building the future of onchain markets | \ncooking @dopplerprotocol and @pure_markets |",
     "avatar_url": "https://unavatar.io/x/whetstonedotcc",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1753,7 +1564,7 @@
     "bio": "CTO @UMAprotocol @AcrossProtocol previously @Google, @Domeyard",
     "avatar_url": "https://unavatar.io/x/mrice32",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1762,7 +1573,7 @@
     "bio": "BASM ：哪家公司將成長，進而創造高報酬：經營模式(Business Model)、假設 (Assumptions)、策略 (Strategy)和管理(Management)",
     "avatar_url": "https://unavatar.io/x/BlueJay87476298",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -1771,7 +1582,7 @@
     "bio": "CEO OP Labs & Co-founder Optimism.",
     "avatar_url": "https://unavatar.io/x/jinglejamOP",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1780,7 +1591,7 @@
     "bio": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
     "avatar_url": "https://unavatar.io/x/Replit",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -1789,7 +1600,7 @@
     "bio": "Founder Decode. Building a whiteboard for you and your coding agents. 🇨🇦 transplanted to 🇺🇸",
     "avatar_url": "https://unavatar.io/x/seflless",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1798,7 +1609,7 @@
     "bio": "Empowering enterprises & developers with seamless onchain solutions.\n\nSupport: https://t.co/oVXAAsdnrO\n\nWe’re hiring: https://t.co/28X9XXI3zY",
     "avatar_url": "https://unavatar.io/x/CoinbaseDev",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1807,7 +1618,7 @@
     "bio": "tweets things.",
     "avatar_url": "https://unavatar.io/x/moskytw",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1816,7 +1627,7 @@
     "bio": "天風國際證券分析師，分享科技產業趨勢觀察｜TF International Securities analyst sharing tech trend insights",
     "avatar_url": "https://unavatar.io/x/mingchikuo",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -1834,7 +1645,7 @@
     "bio": "Anima (by @synaps_id) dID protocol - building trust-based communities through Sybil resistance. \n\nDiscord 👉 https://t.co/n0HdEMNZNW",
     "avatar_url": "https://unavatar.io/x/anima_protocol",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1870,7 +1681,7 @@
     "bio": "Founder @ The DeFi Report |  Research, Market Insights, and Onchain Data: https://t.co/xa8A2CcHq8",
     "avatar_url": "https://unavatar.io/x/JustDeauIt",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1879,7 +1690,7 @@
     "bio": "Veni, vidi, tweeti.",
     "avatar_url": "https://unavatar.io/x/baconmeteor",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -1906,7 +1717,7 @@
     "bio": "Taking next generation tech to market.\n\nPrev @RedStone_DeFi, @AcrossProtocol, @WorldBank.\n\nMember @safaryclub.",
     "avatar_url": "https://unavatar.io/x/CampbellEaston",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -1933,7 +1744,7 @@
     "bio": "Co-Founder@ ContinueFund\nBuild the Atoms World",
     "avatar_url": "https://unavatar.io/x/LeePima",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -1942,7 +1753,7 @@
     "bio": "Building @OsmosisZone @Polaris_app @Cosmos @arkworks_rs\n\nBuilding for a private, end-user verifiable world",
     "avatar_url": "https://unavatar.io/x/zkDragon",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1951,7 +1762,7 @@
     "bio": "Building @owlto_finance, beyond a cross-chain protocol",
     "avatar_url": "https://unavatar.io/x/leowlto",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1960,7 +1771,7 @@
     "bio": "former founder, now product @lifiprotocol / prev @catalystsystem (acq.), product @aave, @ripple",
     "avatar_url": "https://unavatar.io/x/0xJim",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1969,7 +1780,7 @@
     "bio": "co-founder @milky_way_zone. Ex- @Allinbits_inc, @cryptocom, @linkedin. Early grad, not drop out. Pro 🤿🧘‍♀️",
     "avatar_url": "https://unavatar.io/x/josietyleung",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -1978,7 +1789,7 @@
     "bio": "Creatives helping frontier tech take flight. Trusted by @solana, @anagramxyz, @uniswap, @sfcompute, @Vapi_AI, @ExaAILabs, @hedra_labs, & 350+ teams since '19.",
     "avatar_url": "https://unavatar.io/x/AirfoilStudio",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -1987,7 +1798,7 @@
     "bio": "building @hyperliquidx",
     "avatar_url": "https://unavatar.io/x/iliensinc",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2014,7 +1825,7 @@
     "bio": "coinbase + opyn\n\nhttps://t.co/iy0htGF0Mg",
     "avatar_url": "https://unavatar.io/x/opyn_",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2023,7 +1834,7 @@
     "bio": "Intelligent Savings on @HyperliquidX\n\nhttps://t.co/zZB5aEVqCh",
     "avatar_url": "https://unavatar.io/x/ValantisLabs",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -2032,7 +1843,7 @@
     "bio": "https://t.co/XSH2wseW3E",
     "avatar_url": "https://unavatar.io/x/leopoldasch",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2041,7 +1852,7 @@
     "bio": "Co-Founder and CEO of LayerZero Labs. @LayerZero_Core 💎🙌",
     "avatar_url": "https://unavatar.io/x/PrimordialAA",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2050,7 +1861,7 @@
     "bio": "Chief Security Officer at @krakenfx, hacker, @THOTCON OPER, @IamTheCavalry, @DEFCON NOC, @SpiderLabs founder - Opinions are my own, not my employer’s",
     "avatar_url": "https://unavatar.io/x/c7five",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2059,7 +1870,7 @@
     "bio": "Founder of the world’s most read daily AI newsletter @therundownai. Sharing the latest developments in the world of artificial intelligence.",
     "avatar_url": "https://unavatar.io/x/rowancheung",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -2068,7 +1879,7 @@
     "bio": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
     "avatar_url": "https://unavatar.io/x/KirkDBorne",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -2077,7 +1888,7 @@
     "bio": "AGI at Keen Technologies, former CTO Oculus VR, Founder Id Software and Armadillo Aerospace",
     "avatar_url": "https://unavatar.io/x/ID_AA_Carmack",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2095,7 +1906,7 @@
     "bio": "Generative music maker. Make your music.\nDiscord https://t.co/4deihzV5gN\nReddit r/udiomusic",
     "avatar_url": "https://unavatar.io/x/udiomusic",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -2104,7 +1915,7 @@
     "bio": "Founder & CEO @Aave",
     "avatar_url": "https://unavatar.io/x/StaniKulechov",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2113,7 +1924,7 @@
     "bio": "Co-founder @OrderlyNetwork",
     "avatar_url": "https://unavatar.io/x/ranyi1115",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2122,7 +1933,7 @@
     "bio": "Co-founder @get_truenorth • AI for traders • vibes are valid, you just need the receipts",
     "avatar_url": "https://unavatar.io/x/WillyChuang",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -2131,7 +1942,7 @@
     "bio": "Founder @NinetyEight_HQ",
     "avatar_url": "https://unavatar.io/x/imlethanh98",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2140,7 +1951,7 @@
     "bio": "Subscribe https://t.co/Xm1OaUU8jk • seed investing • writing • ॐ •🙏• I use '—' • tweets saved 90 days • 📷",
     "avatar_url": "https://unavatar.io/x/stevesi",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -2149,7 +1960,7 @@
     "bio": "The blockchain to house all finance. Trade, build apps, and launch tokens on the same hyper-performant chain. X by Hyper Foundation",
     "avatar_url": "https://unavatar.io/x/HyperliquidX",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2185,7 +1996,7 @@
     "bio": "Ops and Product Support Specialist.\nCurrent at @TermMaxFi | @SeekersAlliance\nPrev at @perpprotocol | @crypto_unicorns |",
     "avatar_url": "https://unavatar.io/x/terrarekt",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2194,7 +2005,7 @@
     "bio": "闻过则幸\n\n上推主要是为了学习，以及...拖延\n\n前 发呆表演艺术家\n精通洗洁精节省术（接受咨询，10 元/餐）\n\n热衷辅助洗衣机洗衣、微调洗碗机洗碗、帮冰箱和热水器保温\n前年实践『AI 替我全自动总结』，现已熟练掌握『纯手工匠心总结 AI』\n\n（认真脸：若方便实现代价小，降低 SARS-CoV-2 颗粒剂量",
     "avatar_url": "https://unavatar.io/x/gongbo1984",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -2212,7 +2023,7 @@
     "bio": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
     "avatar_url": "https://unavatar.io/x/op7418",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -2221,7 +2032,7 @@
     "bio": "我们专注于支持和推广深度报道和数据新闻，分享相关的资源、教程、工具、奖学金和线上/线下活动等。网站：https://t.co/U46qZkAexi",
     "avatar_url": "https://unavatar.io/x/gijnCh",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -2231,7 +2042,7 @@
     "avatar_url": "https://unavatar.io/x/fxtrader",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2240,7 +2051,7 @@
     "bio": "ntu csie/econ; eng @kryptogo_ ; prev @SuDoResearch & @PrivacyScaling;",
     "avatar_url": "https://unavatar.io/x/nooma4286",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2249,7 +2060,7 @@
     "bio": "Liberating Yield || The world's largest crypto yield trading platform ||\n\nDiscord: https://t.co/5H8gUMvtPs | Telegram: https://t.co/c77ig0GeQC",
     "avatar_url": "https://unavatar.io/x/pendle_fi",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2258,7 +2069,7 @@
     "bio": "Editor: @etherealnewsHQ Coordinator: @devtoolsguild GitHub: https://t.co/J1y8T1q6g4 Creator: @BlockHorses father + autistic + vegan he/him pfp: @texturepunx",
     "avatar_url": "https://unavatar.io/x/abcoathup",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2267,7 +2078,7 @@
     "bio": "prev @code4rena @certorainc",
     "avatar_url": "https://unavatar.io/x/trebienxyz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2276,7 +2087,7 @@
     "bio": "主持facebook粉絲頁「龍貓大王通信」，部落格「新·龍貓森林」是我的。永遠覺得明天就會炎上然後消失。【支持寫作】https://t.co/RXB34r6Gvf【業務聯繫】totorojack@gmail.com",
     "avatar_url": "https://unavatar.io/x/totorojack",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -2285,7 +2096,7 @@
     "bio": "CTO @zerodev_app",
     "avatar_url": "https://unavatar.io/x/leekt216",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2294,7 +2105,7 @@
     "bio": "Big stories and breaking news as they are published on https://t.co/EYmAcRLBHv. Register here to access free articles: https://t.co/NRg2hritkA",
     "avatar_url": "https://unavatar.io/x/FT",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2303,7 +2114,7 @@
     "bio": "cross-chain @0xSequence",
     "avatar_url": "https://unavatar.io/x/shunkakinoki",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2330,7 +2141,7 @@
     "bio": "The easy, safe way to trade onchain.\nPowered by (&#x3D;ↀωↀ&#x3D;) and @perpprotocol.",
     "avatar_url": "https://unavatar.io/x/Nekodex_app",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2339,7 +2150,7 @@
     "bio": "Supporting the @eigencloud community, building the shared security commons for Crypto and AI.",
     "avatar_url": "https://unavatar.io/x/eigenfoundation",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -2348,7 +2159,7 @@
     "bio": "Building credibly neutral infra for humans to coordinate at scale. Founder of @zerodev_app, now part of @Offchain",
     "avatar_url": "https://unavatar.io/x/decentrek",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2357,7 +2168,7 @@
     "bio": "@hyperliquidx building a pretty good L1",
     "avatar_url": "https://unavatar.io/x/chameleon_jeff",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2366,7 +2177,7 @@
     "bio": "Co-founder of @stripe.",
     "avatar_url": "https://unavatar.io/x/collision",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2385,7 +2196,7 @@
     "avatar_url": "https://unavatar.io/x/KyleLDavies",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2395,7 +2206,7 @@
     "avatar_url": "https://unavatar.io/x/fundstrat",
     "tags": [
       "crypto-trader",
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2404,7 +2215,7 @@
     "bio": "Head of European Economic and Trade Office in Taiwan - European External Action Service; Retweets and  likes  are not endorsements.",
     "avatar_url": "https://unavatar.io/x/LutzGuellner",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2413,7 +2224,7 @@
     "bio": "intention is all you need // building @khalani_network // cofounder @nervosnetwork // dm open",
     "avatar_url": "https://unavatar.io/x/knwang",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -2431,7 +2242,7 @@
     "bio": "@go_ethereum",
     "avatar_url": "https://unavatar.io/x/lightclients",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2440,7 +2251,7 @@
     "bio": "Researcher at Ethereum Foundation. Admirer of emergent order.",
     "avatar_url": "https://unavatar.io/x/adietrichs",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2449,7 +2260,7 @@
     "bio": "Co-founder & CEO @ready_co | Building the onchain alternative to your bank. Slap kabaddi KOL.",
     "avatar_url": "https://unavatar.io/x/itamarl",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2458,7 +2269,7 @@
     "bio": "open sourced, permissionless option margin layer focuses on composability and capital efficiency",
     "avatar_url": "https://unavatar.io/x/grappafinance",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -2467,7 +2278,7 @@
     "bio": "building the verifiable internet with zkTLS | where web2 private data becomes verifiable and portable | governed by @zkPassDAO | $ZKP",
     "avatar_url": "https://unavatar.io/x/zkPass",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2476,7 +2287,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/polychain",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2485,7 +2296,7 @@
     "bio": "Turn your app into a DeFi app. Build w/  http://vaults.fyi/api \n\nManage your positions across 75+ DeFi protocols (no fees)  http://app.vaults.fyi",
     "avatar_url": "https://unavatar.io/x/vaultsfyi",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2503,7 +2314,7 @@
     "bio": "An execution abstraction protocol for securing onchain apps with MEV Protection on the EVM — built by @0xFastLane. Everything is App-Specific Sequencing",
     "avatar_url": "https://unavatar.io/x/atlasevm",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2512,7 +2323,7 @@
     "bio": "We're hiring. Electric Capital is an early stage venture firm focused on cryptocurrencies, blockchain, fintech, and marketplaces.",
     "avatar_url": "https://unavatar.io/x/ElectricCapital",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2521,7 +2332,7 @@
     "bio": "TradFi is broken and cannot be fixed.\nDeFi primitives are fragmented and cannot scale.\n\nIt's time to call in the CavalRe. Rethink. Rebuild.",
     "avatar_url": "https://unavatar.io/x/TheCavalRe",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2530,7 +2341,7 @@
     "bio": "Cofounder & CEO @Morpho",
     "avatar_url": "https://unavatar.io/x/PaulFrambot",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2539,7 +2350,7 @@
     "bio": "Normalien ▪︎ Distributed systems Ph. D. ▪︎ Smart Contract Engineer @ OpenZeppelin ▪︎ #Ethereum Magician ▪︎ Prononced: adʁijɛ̃ kʁubwa",
     "avatar_url": "https://unavatar.io/x/Amxx",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2548,7 +2359,7 @@
     "bio": "Zero In Newsletter: https://zero-in.beehiiv.com\n\nFounder of @ZKZeroKnowledge\nTeaching @NYUStern\nPrev @jpmorgan, Paxos, & more\n\nStablecoin expert (!?)",
     "avatar_url": "https://unavatar.io/x/austincampbell",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2557,7 +2368,7 @@
     "bio": "Founder @ethena_labs\n\nDisclosures: https://g-ethena.com",
     "avatar_url": "https://unavatar.io/x/gdog97_",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2566,7 +2377,7 @@
     "bio": "The most powerful smart account development platform, by @Offchain. Build Web3 experiences without gas, confirmations, seed phrases, and bridging.",
     "avatar_url": "https://unavatar.io/x/zerodev_app",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2575,7 +2386,7 @@
     "bio": "RPCh - The first and only private RPC provider #ProtectYourIP \n Reclaim privacy http://degen.rpch.net \n http://discord.gg/VRyTQTNBTy",
     "avatar_url": "https://unavatar.io/x/RPC_h_",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2584,7 +2395,7 @@
     "bio": "A close-knit community of 450+ founders & early stage web3 builders in Singapore, the center of gravity for crypto.",
     "avatar_url": "https://unavatar.io/x/sgbuidl",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2593,7 +2404,7 @@
     "bio": "https://github.com/IllIllI000/audits…",
     "avatar_url": "https://unavatar.io/x/IllIllI000",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -2602,7 +2413,7 @@
     "bio": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: http://openai.com/jobs",
     "avatar_url": "https://unavatar.io/x/OpenAI",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -2611,7 +2422,7 @@
     "bio": "AI research and products that reimagine human-technology interaction.\nLeading foundational models powering Agents and Creative Platforms.",
     "avatar_url": "https://unavatar.io/x/elevenlabsio",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -2620,7 +2431,7 @@
     "bio": "Securing the future of crypto | Cover art by @yueko__ | Emergencies: https://t.me/seal_911_bot",
     "avatar_url": "https://unavatar.io/x/_SEAL_Org",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2629,7 +2440,7 @@
     "bio": "The Synchronous Orderbook Liquidity Layer unifying cross-chain liquidity in DeFi.\n\nMany chains, one cohesive source of liquidity - powered by Edge.",
     "avatar_url": "https://unavatar.io/x/EdgeLayer",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2638,7 +2449,7 @@
     "bio": "@opentimestamps founder\n\npgp: 37EC7D7B0A217CDB4B4E007E7FAB114267E4FA04",
     "avatar_url": "https://unavatar.io/x/peterktodd",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2647,7 +2458,7 @@
     "bio": "Husband, Dad, Entrepreneur, Software Engineer. Founder of @ScopeLift. Also building @UmbraCash. Working hard to create the decentralized future.",
     "avatar_url": "https://unavatar.io/x/BenDiFrancesco",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2656,7 +2467,7 @@
     "bio": "Complete Lifecycle Security for Web3 Protocols",
     "avatar_url": "https://unavatar.io/x/sherlockdefi",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2666,7 +2477,7 @@
     "avatar_url": "https://unavatar.io/x/KobeissiLetter",
     "tags": [
       "crypto-trader",
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2675,7 +2486,7 @@
     "bio": "Research Scientist @SakanaAILabs, Former Research Scientist @GoogleDeepMind AI & Multimodal LLM applications/ PhD @UW /  alumni @mit @msft @Theteamatx",
     "avatar_url": "https://unavatar.io/x/Stefania_druga",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -2684,7 +2495,7 @@
     "bio": "Covering the latest dev news in AI • Founder @AlphaSignalAI (250k users) • ML Eng since 2017 • Ex-Mila • MIT Lecturer • ODF 26",
     "avatar_url": "https://unavatar.io/x/LiorOnAI",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2693,7 +2504,7 @@
     "bio": "Working on Farcaster.",
     "avatar_url": "https://unavatar.io/x/dwr",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2720,7 +2531,7 @@
     "bio": "Founder & CEO of OKX (since 2013). Crypto will eat the world. Self-custody is the future. Everything will be onchain. Tweets not financial advice.",
     "avatar_url": "https://unavatar.io/x/star_okx",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2729,7 +2540,7 @@
     "bio": "@iejmedia ⚡︎ @indopacpodcast ⚡︎ ex @goldmansachs ⚡︎ Puncturing the false narratives of adversaries ⚡︎ Subscribe for access to the IEJ database⇵",
     "avatar_url": "https://unavatar.io/x/ianellisjones",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2738,7 +2549,7 @@
     "bio": "Engineer @optimism\nCo-Founder & CTO @yield (defunct)\nCo-Author ERC4626 (Tokenized Vaults), ERC3156 (Flash Loans) ERC7266 (Oracles)\nJudge @ Code4rena, Cantina",
     "avatar_url": "https://unavatar.io/x/alcueca",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2774,7 +2585,7 @@
     "bio": "Cloud-Scale Data Availability with Full Programmability.\nPowering the EigenCloud (@eigencloud).",
     "avatar_url": "https://unavatar.io/x/eigen_da",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2792,7 +2603,7 @@
     "bio": "founder @conduitxyz | join us: https://t.co/ArWeF5TOsS",
     "avatar_url": "https://unavatar.io/x/KAndrewHuang",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2801,7 +2612,7 @@
     "bio": "一个正在成长中的白痴\n\ncreated @bodhi_wtf",
     "avatar_url": "https://unavatar.io/x/levi0214",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2810,7 +2621,7 @@
     "bio": "UTXO Stack founder, RGB++ protocol author, JoyID Passkey wallet founder",
     "avatar_url": "https://unavatar.io/x/crypcipher",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2837,7 +2648,7 @@
     "bio": "✯ https://t.co/1tzvfSxd7S ⊛ @asterixlabs ⟠ NEET",
     "avatar_url": "https://unavatar.io/x/optimizoor",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2846,7 +2657,7 @@
     "bio": "@Aavechan Initiative founder Aave DAO service provider",
     "avatar_url": "https://unavatar.io/x/Marczeller",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2855,7 +2666,7 @@
     "bio": "Accessible & Profitable DEX for All.\n\nJoin Dysonauts: https://t.co/UC9B9YVpse",
     "avatar_url": "https://unavatar.io/x/DysonFinance",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2864,7 +2675,7 @@
     "bio": "Delivering blockspace @lu_ban_. Views my own.",
     "avatar_url": "https://unavatar.io/x/StanleyHe17",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2882,7 +2693,7 @@
     "bio": "铁山 | @ThielFellowship | @MIT | @YCombinator W16 | Founder @BLUR_io @BLAST\n\nPacman / 0x7c8a0c5a58dcbb822cd59be9d5e5f676a3e32504 on Blast Mobile",
     "avatar_url": "https://unavatar.io/x/PacmanBlur",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2909,7 +2720,7 @@
     "bio": "SSI @SSI",
     "avatar_url": "https://unavatar.io/x/ilyasut",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -2918,7 +2729,7 @@
     "bio": "Airbnb",
     "avatar_url": "https://unavatar.io/x/bchesky",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2927,7 +2738,7 @@
     "bio": "Purposeful trust maximalist, exploring better ways to collaborate, often with computers.",
     "avatar_url": "https://unavatar.io/x/danfinlay",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2936,7 +2747,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/WarpDex",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -2945,7 +2756,7 @@
     "bio": "blockchain security prev @ambergroup_io @stakefish | Opinions are my own",
     "avatar_url": "https://unavatar.io/x/hibillh",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2963,7 +2774,7 @@
     "bio": "Cofounder & Wizard @Morpho",
     "avatar_url": "https://unavatar.io/x/MerlinEgalite",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2972,7 +2783,7 @@
     "bio": "Integration Engineer - DevRel @morpho 🦋",
     "avatar_url": "https://unavatar.io/x/TomReppelin",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -2981,7 +2792,7 @@
     "bio": "Researcher @chaoslabs\nUniswap delegate: https://t.co/hFuuUYzy5v",
     "avatar_url": "https://unavatar.io/x/atiselsts_eth",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -2990,7 +2801,7 @@
     "bio": "A dedicated blogger navigating international economy, stock markets, and the ever-evolving landscape of technology innovation.",
     "avatar_url": "https://unavatar.io/x/IEObserve",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -2999,7 +2810,7 @@
     "bio": "Founder @0xfluid. Co-founder @Instadapp @avowallet. DeFi. Forbes 30 under 30 India/Asia.",
     "avatar_url": "https://unavatar.io/x/smykjain",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3017,7 +2828,7 @@
     "bio": "Talented enterpreneur and IT expert",
     "avatar_url": "https://unavatar.io/x/panprog",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3026,7 +2837,7 @@
     "bio": "CEO Pershing Square, Co-trustee @PershingSqFdn",
     "avatar_url": "https://unavatar.io/x/BillAckman",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -3035,7 +2846,7 @@
     "bio": "We bring rationality to strange and unruly markets // \nCrypto VC and Market-Maker // \nCOO @msjuliazhou Investments @wengevar",
     "avatar_url": "https://unavatar.io/x/caladanxyz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3071,7 +2882,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/sasadjak72",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3081,7 +2892,7 @@
     "avatar_url": "https://unavatar.io/x/BigBullShark",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3099,7 +2910,7 @@
     "bio": "Former co-founder @GetLinen. Self-sovereignty, ultrasound money. Ex-tradfi.",
     "avatar_url": "https://unavatar.io/x/srndptme",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -3108,7 +2919,7 @@
     "bio": "Chief Innovation Officer @OKX & Chief Operating Officer @Okcoin. Making bitcoin & crypto more accessible. All tweets are my own. Telegram @jasonklau.",
     "avatar_url": "https://unavatar.io/x/jasonklau",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3144,7 +2955,7 @@
     "bio": "Tokenomics/DeFi/Web3/Crypto",
     "avatar_url": "https://unavatar.io/x/hhe08",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3153,7 +2964,7 @@
     "bio": "Perpetually learning new things as an underpaid sleep deprived intern of @perpprotocol.",
     "avatar_url": "https://unavatar.io/x/perpintern",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3162,7 +2973,7 @@
     "bio": "Research. Game theory. Shape rotator.",
     "avatar_url": "https://unavatar.io/x/CK_2049",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3171,7 +2982,7 @@
     "bio": "Artist + Software Developer / Married to @Helen_Crispin_ / Previously AR-VR and Neurotech",
     "avatar_url": "https://unavatar.io/x/sterlingcrispin",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3180,7 +2991,7 @@
     "bio": "CTO at @ledger. Busy securing the blockchain revolution. Cryptography, (Hw) Security, Tech, Blockchain.\nPreviously built the Donjon (@DonjonLedger)",
     "avatar_url": "https://unavatar.io/x/P3b7_",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3189,7 +3000,7 @@
     "bio": "Your A.I. consumer champion. Helping millions of consumers resolve their problems.",
     "avatar_url": "https://unavatar.io/x/donotpay",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -3207,7 +3018,7 @@
     "bio": "Your go-to wallet for Ethereum and EVM.\n\nFor support, visit: https://t.co/xBFdxthaKM",
     "avatar_url": "https://unavatar.io/x/Rabby_io",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3216,7 +3027,7 @@
     "bio": "dont believe their lies 🦊 💖🗡️",
     "avatar_url": "https://unavatar.io/x/tayvano_",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3225,7 +3036,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/daidoli",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -3234,7 +3045,7 @@
     "bio": "@perpprotocol",
     "avatar_url": "https://unavatar.io/x/HenryCh57014062",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3243,7 +3054,7 @@
     "bio": "Developing tee-wham",
     "avatar_url": "https://unavatar.io/x/cronfinance",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -3261,7 +3072,7 @@
     "bio": "Secure \nOpen\nVerified\nSilicon\n\n@ Flashbots",
     "avatar_url": "https://unavatar.io/x/0xQuintus",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3279,7 +3090,7 @@
     "bio": "Desk tours. Published by @rjgilbert.",
     "avatar_url": "https://unavatar.io/x/workspacesxyz",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -3288,7 +3099,7 @@
     "bio": "AI Lead at Ethereum Foundation · dAI Team",
     "avatar_url": "https://unavatar.io/x/DavideCrapis",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3297,7 +3108,7 @@
     "bio": "Lead Economist @anza_xyz",
     "avatar_url": "https://unavatar.io/x/MaxResnick",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -3306,7 +3117,7 @@
     "bio": "The official account of the World Baseball Classic.  \nThe premier global baseball tournament. 🌎🌍🌏\n#WorldBaseballClassic",
     "avatar_url": "https://unavatar.io/x/WBCBaseball",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -3315,7 +3126,7 @@
     "bio": "OpenSource software development is not a crime! || Note:follow @FreeAlexeyRoman, this account exists for historical reasons 💰💰 👉 https://t.co/vJEmE883dN",
     "avatar_url": "https://unavatar.io/x/Free__Alexey",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3324,7 +3135,7 @@
     "bio": "rl/acc ☉ https://t.co/2tNftUPx06",
     "avatar_url": "https://unavatar.io/x/thegostep",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -3333,7 +3144,7 @@
     "bio": "Contributor @EthTaipei | Prev @kryptogo_ @perpprotocol",
     "avatar_url": "https://unavatar.io/x/uu_wyagl",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3342,7 +3153,7 @@
     "bio": "Building a transparent defi dashboard at @defillama.\n\nHiring devs at https://t.co/B5HesSQ2XP\n\nWould rather be right than make money",
     "avatar_url": "https://unavatar.io/x/0xngmi",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3351,7 +3162,7 @@
     "bio": "Security audits, static analysis, realtime threat monitoring",
     "avatar_url": "https://unavatar.io/x/dedaub",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -3360,7 +3171,7 @@
     "bio": "founder @renegade_fi ← crypto crossing network || short bus conquistador",
     "avatar_url": "https://unavatar.io/x/chrisliambender",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3369,7 +3180,7 @@
     "bio": "pfp by @ShizzyAizawa. Post-Newtonian heterodox economist. Inventor of the JvN hypothesis. World champion of econ/finance/food ragebait. Hermit savant",
     "avatar_url": "https://unavatar.io/x/alz_zyd_",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -3378,7 +3189,7 @@
     "bio": "prev: reinforcement learning @ USC, interning @ Google ⛱",
     "avatar_url": "https://unavatar.io/x/hayden_shively",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -3387,7 +3198,7 @@
     "bio": "father, garden appreciator, multichain growth @morpholabs. occasional curmudgeon.",
     "avatar_url": "https://unavatar.io/x/OneTrueKirk",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -3397,7 +3208,7 @@
     "avatar_url": "https://unavatar.io/x/YoannTurpin1",
     "tags": [
       "crypto-trader",
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -3406,7 +3217,7 @@
     "bio": "#cryptobanking scholar\nFounding Chef at @SteakhouseFi\nToo boring for #DeFi, too punk for #TradFi",
     "avatar_url": "https://unavatar.io/x/SebVentures",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3415,7 +3226,7 @@
     "bio": "building @tempo, cofounder @ethglobal, previously built @optimism, make crypto useful.",
     "avatar_url": "https://unavatar.io/x/liamihorne",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3424,7 +3235,7 @@
     "bio": "Founder, CEO, Board Member \nStarting something new",
     "avatar_url": "https://unavatar.io/x/ryan_caldbeck",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3433,7 +3244,7 @@
     "bio": "Unlimited leverage, no liquidations, higher yields.\nLive on Base.",
     "avatar_url": "https://unavatar.io/x/InfPools",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3442,7 +3253,7 @@
     "bio": "Introducing RAM to the world computer",
     "avatar_url": "https://unavatar.io/x/topology_gg",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -3451,7 +3262,7 @@
     "bio": "autonomous worlds",
     "avatar_url": "https://unavatar.io/x/latticexyz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3460,7 +3271,7 @@
     "bio": "The biggest Ethereum ecosystem event for builders in Taiwan🧋\n\n2025 April 1st-2nd 🧋 \n\nJoined with @ETHGlobal Pragma: 4/3 and Hackathon: 4/4-6",
     "avatar_url": "https://unavatar.io/x/EthTaipei",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3469,7 +3280,7 @@
     "bio": "1005 is not my birthday",
     "avatar_url": "https://unavatar.io/x/Jonah1005W",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3478,7 +3289,7 @@
     "bio": "Contributor of @Dapp_learning",
     "avatar_url": "https://unavatar.io/x/0xstan_",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3487,7 +3298,7 @@
     "bio": "Driving the adoption and development of the @gnosischain ecosystem🦉💚",
     "avatar_url": "https://unavatar.io/x/gnosisbuilders",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3496,7 +3307,7 @@
     "bio": "Official Support for Perpetual Protocol @perpprotocol\n\nOn-chain perpetual futures DEX with deep liquidity and builder-ready composability - now on @optimismFND.",
     "avatar_url": "https://unavatar.io/x/PerpSupport",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3505,7 +3316,7 @@
     "bio": "Product @coingecko. Previously @canva.",
     "avatar_url": "https://unavatar.io/x/xingyiho",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3514,7 +3325,7 @@
     "bio": "Co-founder of Aura (@ShipAloneCEO)",
     "avatar_url": "https://unavatar.io/x/RC6666",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3524,7 +3335,7 @@
     "avatar_url": "https://unavatar.io/x/IDrawCharts",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3533,7 +3344,7 @@
     "bio": "investing in culture @1kxnetwork",
     "avatar_url": "https://unavatar.io/x/Mikey0x_",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -3542,7 +3353,7 @@
     "bio": "Building cool stuff on Ethereum... currently @POKVault ,ex @Lemma_Labs @catnip_exchange",
     "avatar_url": "https://unavatar.io/x/roamingRahi",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3551,7 +3362,7 @@
     "bio": "Building trust in blockchains among people, businesses, and governments. Our crypto compliance and investigation software powers hundreds of top institutions.",
     "avatar_url": "https://unavatar.io/x/chainalysis",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3560,7 +3371,7 @@
     "bio": "Coach to leaders in the tech world who run top-performing companies and investment firms (@openai, @coinbase, @sequoia and more).",
     "avatar_url": "https://unavatar.io/x/mattmochary",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -3569,7 +3380,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/realdantaik",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -3578,7 +3389,7 @@
     "bio": "Co-Founder & Chairman @KrakenFX Founder @Verge_Arts Former pro player @Wizards_Magic #VirtualGoods🎮 Peddler since 2001 #NFT🖼️ Hoarder #Bitcoin Enthusiast",
     "avatar_url": "https://unavatar.io/x/jespow",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3587,7 +3398,7 @@
     "bio": "Technical Lead @CoWSwap. Multi-dimensional Batch Auctions with Uniform Clearing Prices on Ethereum. Prev. @gnosisPM, @facebook, @google. @HPI_DE Alumnus.",
     "avatar_url": "https://unavatar.io/x/fleupold_",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3605,7 +3416,7 @@
     "bio": "research @uniswap",
     "avatar_url": "https://unavatar.io/x/xin__wan",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3614,7 +3425,7 @@
     "bio": "building @whetstonedotcc | advising @variantfund | prev @uniswap",
     "avatar_url": "https://unavatar.io/x/aadams",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3632,7 +3443,7 @@
     "bio": "Building @CaliberBuild. Founded KybΞr in 2017, WBTC in 2019",
     "avatar_url": "https://unavatar.io/x/loi_luu",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3641,7 +3452,7 @@
     "bio": "Just because Beanie Babies crashed in value, doesn’t mean that stuffed animals weren’t going to be important.",
     "avatar_url": "https://unavatar.io/x/GwartyGwart",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -3650,7 +3461,7 @@
     "bio": "strategy @uniswap",
     "avatar_url": "https://unavatar.io/x/0x94305",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3659,7 +3470,7 @@
     "bio": "🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈 cofounder of @rainbowdotme",
     "avatar_url": "https://unavatar.io/x/mikedemarais",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3668,7 +3479,7 @@
     "bio": "Research @sentoraHQ\n\nDeFi, blockchains, quant stuff, distributed systems, AI, cybersec.",
     "avatar_url": "https://unavatar.io/x/juan_p2p",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3677,7 +3488,7 @@
     "bio": "China analyst @ASPI_CTS\n\n🦋 Find me: https://t.co/IY9NzQLRXD\n\n📨 Anon tips/feedback: https://t.co/dVmp67cY6K\n\n📱 Signal: fergus.99",
     "avatar_url": "https://unavatar.io/x/fryan",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3695,7 +3506,7 @@
     "bio": "Twitter is my Chain-Of-Thought. Reading history is my end-to-end training. Not financial advice. 一言不合就拉黑。评论区只对订阅用户开放。\n\nRunner: 1 km, 3'49; 5 km, 23'07",
     "avatar_url": "https://unavatar.io/x/Svwang1",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -3704,7 +3515,7 @@
     "bio": "defragmenting the chains @EverclearOrg",
     "avatar_url": "https://unavatar.io/x/arjunbhuptani",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3731,7 +3542,7 @@
     "bio": "Institutional Grade Liquidity for Crypto Derivatives!\n\nJoin: https://t.co/OEwd5lfMDp\nMkt Insights: https://t.co/KMFIMTwL1Q\nTrade Tape: https://t.co/D576J7yskm\nSupport: https://t.co/5OtAkGVKPc",
     "avatar_url": "https://unavatar.io/x/tradeparadigm",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3750,7 +3561,7 @@
     "avatar_url": "https://unavatar.io/x/_yakovsky",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3759,7 +3570,7 @@
     "bio": "Building https://t.co/QI0hWOm2gg, LinkedIn Creator Tools | Prev @zfellows, @Stanford, @goldmansachs.",
     "avatar_url": "https://unavatar.io/x/WillMcTighe",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -3768,7 +3579,7 @@
     "bio": "Open source tinkerer building at the edge of hardware and software.\nCheck it out yourself 🔍 https://t.co/eD6y3CqBpk",
     "avatar_url": "https://unavatar.io/x/OxMarco_",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3786,7 +3597,7 @@
     "bio": "data at @paradigm\n\nhttps://t.co/zmTzF0huan",
     "avatar_url": "https://unavatar.io/x/notnotstorm",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -3804,7 +3615,7 @@
     "bio": "@Berkeley_EECS @Columbia_Biz\n\nCofounder & CEO @SeekersAlliance\nex-COO @TeahouseFinance",
     "avatar_url": "https://unavatar.io/x/nightLotus13",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3822,7 +3633,7 @@
     "bio": "Co-founder @safe",
     "avatar_url": "https://unavatar.io/x/rimeissner",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3849,7 +3660,7 @@
     "bio": "research advisor @paradigm",
     "avatar_url": "https://unavatar.io/x/transmissions11",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3858,7 +3669,7 @@
     "bio": "Building @ Stealth. Formal Methods + AI. Prev: Uniswap FDN, EY",
     "avatar_url": "https://unavatar.io/x/andrew_forman",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -3867,7 +3678,7 @@
     "bio": "Making Monad faster @0xFastLane. We make smart contracts that help apps and validators with sequencing, staking, and UX.",
     "avatar_url": "https://unavatar.io/x/ThogardPvP",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3877,7 +3688,7 @@
     "avatar_url": "https://unavatar.io/x/joshua_j_lim",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3886,7 +3697,7 @@
     "bio": "figuring things out\n\nprev. @OneBalance_io, @coinbase, @airbus, supaero, @iitbombay",
     "avatar_url": "https://unavatar.io/x/ankitchiplunkar",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3905,7 +3716,7 @@
     "avatar_url": "https://unavatar.io/x/carolinecapital",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3914,7 +3725,7 @@
     "bio": "Content aggregator for Web3. \nSubscribe to our daily Newsletter: https://t.co/mw2cNyrWrt",
     "avatar_url": "https://unavatar.io/x/ChainFeedsxyz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3923,7 +3734,7 @@
     "bio": "research engineer @HarmonicMath. we’re hiring - DM me!",
     "avatar_url": "https://unavatar.io/x/llllvvuu",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -3932,7 +3743,7 @@
     "bio": "Founder @ambient_finance Founding contributor @fogo Ex: Quant",
     "avatar_url": "https://unavatar.io/x/0xdoug",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -3941,7 +3752,7 @@
     "bio": "Home of the @safe ecosystem.  Sharing news and updates from @safefndn @safeLabs_ and the 200+ ecosystem built on the Safe smart account and multisig platform.",
     "avatar_url": "https://unavatar.io/x/safe",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3950,7 +3761,7 @@
     "bio": "Selling brushes @basepaint_xyz",
     "avatar_url": "https://unavatar.io/x/w1nt3r_eth",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3969,7 +3780,7 @@
     "avatar_url": "https://unavatar.io/x/0xperp",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -3979,7 +3790,7 @@
     "avatar_url": "https://unavatar.io/x/delete_shitcoin",
     "tags": [
       "crypto-trader",
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -3989,7 +3800,7 @@
     "avatar_url": "https://unavatar.io/x/awlafortezza",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -3998,7 +3809,7 @@
     "bio": "The official positive side of 𝕏. I’m Sander from the Netherlands. All copyrights belong to their respective owners! DM for credits/removal/submission!",
     "avatar_url": "https://unavatar.io/x/buitengebieden",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -4008,7 +3819,7 @@
     "avatar_url": "https://unavatar.io/x/HoustonxMTL",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4017,7 +3828,7 @@
     "bio": "https://t.co/1QN0tguH9c\nhttps://t.co/9Is13KVO2c\nhttps://t.co/k6t3JMxZen\nhttps://t.co/LLkIeiANtk",
     "avatar_url": "https://unavatar.io/x/ProgrammerSmart",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4026,7 +3837,7 @@
     "bio": "Cofounder of Solv Protocol; ERC-3525, Tokenomics & RWA evangelist",
     "avatar_url": "https://unavatar.io/x/myanTokenGeek",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4035,7 +3846,7 @@
     "bio": "@Microsoft. Previously Special Projects @MSFTResearch, Eng Sci @UofT. Views are my own.",
     "avatar_url": "https://unavatar.io/x/shreydiwjain",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -4044,7 +3855,7 @@
     "bio": "⿻ https://t.co/h8LHFOkN5B",
     "avatar_url": "https://unavatar.io/x/pujaohlhaver",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4053,7 +3864,7 @@
     "bio": "DeCommas - Delivering the Toolstack for Web3 Builders\n\nDeCommas dApp → https://t.co/CaZ0nl5iSH\nMission Control API →  https://t.co/655HHrf4S4 \n👾https://t.co/Dk3HQNJbsI",
     "avatar_url": "https://unavatar.io/x/decommas",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4062,7 +3873,7 @@
     "bio": "Scaling ethereum's technology & values with @Optimism.",
     "avatar_url": "https://unavatar.io/x/OPLabsPBC",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4071,7 +3882,7 @@
     "bio": "co-founder @tradehotstuff | Prev @MessariCrypto | cs @uwaterloo",
     "avatar_url": "https://unavatar.io/x/mks_hot",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4080,7 +3891,7 @@
     "bio": "Don't trust. Verify.",
     "avatar_url": "https://unavatar.io/x/CheshireCatNick",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4098,7 +3909,7 @@
     "bio": "Building @0xbloctopus (Techstars ‘24) | Prev: @perpprotocol, Founder @kazeliving, MiM @ESCP_bs",
     "avatar_url": "https://unavatar.io/x/goelAnisha",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4107,7 +3918,7 @@
     "bio": "Founder and CEO at @Panoptic_xyz. Building DeFi’s prime brokerage. Left-handed shortstop.",
     "avatar_url": "https://unavatar.io/x/guil_lambert",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4116,7 +3927,7 @@
     "bio": "Founder of @SlowMist_Team // 分身一号/捉虫大师/救火运动员 // 🕖灾备频道 https://t.co/bMGdsBkYwM",
     "avatar_url": "https://unavatar.io/x/evilcos",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4125,7 +3936,7 @@
     "bio": "Co-Founder @dedaub. Lecturer @UMMalta.\n\nSecurity researcher in program analysis & blockchain.",
     "avatar_url": "https://unavatar.io/x/neville_grech",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4161,7 +3972,7 @@
     "bio": "previously ML @ google, competitive programmer",
     "avatar_url": "https://unavatar.io/x/wireless_dev",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -4242,7 +4053,7 @@
     "bio": "Unchain is a charity project created by blockchain activists to support Ukraine with humanitarian aid. #StandForUkraine 🇺🇦",
     "avatar_url": "https://unavatar.io/x/Unchainfund",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4251,7 +4062,7 @@
     "bio": "founder @polychain",
     "avatar_url": "https://unavatar.io/x/zxocw",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4269,7 +4080,7 @@
     "bio": "Founder & CEO @Architect_Fi",
     "avatar_url": "https://unavatar.io/x/BrettHarrison",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4279,7 +4090,7 @@
     "avatar_url": "https://unavatar.io/x/r72_fi",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4288,7 +4099,7 @@
     "bio": "🌊 Head of Growth @0xfluid | investing @daedalus_angels | \nposting inconsequential observations",
     "avatar_url": "https://unavatar.io/x/_brizal",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -4297,7 +4108,7 @@
     "bio": "Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.",
     "avatar_url": "https://unavatar.io/x/premium",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -4306,7 +4117,7 @@
     "bio": "Co-founder @Heptabase",
     "avatar_url": "https://unavatar.io/x/alanchan_tw",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4324,7 +4135,7 @@
     "bio": "Member @CryptoGirlsClub | Prev @EnsoBuild @perpprotocol, @PulsarFinance, & @warp_protocol",
     "avatar_url": "https://unavatar.io/x/Leo_Plaro",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4333,7 +4144,7 @@
     "bio": "永续协议🇨🇳 账号｜去中心化永续合约交易协议 V2：https://t.co/FQM4Mjb5JF\n几乎是东半球最大的衍生品协议 on Optimism\n\nperpetual protocol 官方中文电报群：https://t.co/znkt1tj176\nperpetual protocol 官方discord：https://t.co/YrgUT2LhXu",
     "avatar_url": "https://unavatar.io/x/PerpCN",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4342,7 +4153,7 @@
     "bio": "Co-founder & Co-CEO @0xproject @matchaxyz",
     "avatar_url": "https://unavatar.io/x/abandeali1",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4360,7 +4171,7 @@
     "bio": "expect chaos. crypto. coding. design. music. DeFi. DAO. prev @perpprotocol, PM @metatdex",
     "avatar_url": "https://unavatar.io/x/zappaxer",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4378,7 +4189,7 @@
     "bio": "I'm not active on Twitter.",
     "avatar_url": "https://unavatar.io/x/apolynya",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4387,7 +4198,7 @@
     "bio": "All things Gnosis.",
     "avatar_url": "https://unavatar.io/x/StefanDGeorge",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4396,7 +4207,7 @@
     "bio": "Founder @dark_dot_bio |\nFormer Go Ethereum Lead (2015-2025)",
     "avatar_url": "https://unavatar.io/x/peter_szilagyi",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4405,7 +4216,7 @@
     "bio": "#Luna 🌕",
     "avatar_url": "https://unavatar.io/x/stablekwon",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4414,7 +4225,7 @@
     "bio": "(not a pseudonym) weird ETH yankovic cofounder, eternal optimist @optimism 🔴✨",
     "avatar_url": "https://unavatar.io/x/ben_chain",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4423,7 +4234,7 @@
     "bio": "An OS for operating Safes with confidence.",
     "avatar_url": "https://unavatar.io/x/zodiaceco",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4441,7 +4252,7 @@
     "bio": "Security Researcher 👨‍💻 | Professional Bug Bounty Hunter | Resider on the @immunefi leaderboard | On an independent arc",
     "avatar_url": "https://unavatar.io/x/joranhonig",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4450,7 +4261,7 @@
     "bio": "building",
     "avatar_url": "https://unavatar.io/x/MLGavaudan",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4468,7 +4279,7 @@
     "bio": "nonlinearities | gardening\n\nfueled by microplastics",
     "avatar_url": "https://unavatar.io/x/tinathesis",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4486,7 +4297,7 @@
     "bio": "Founder @SharwaFinance",
     "avatar_url": "https://unavatar.io/x/T0xic_Potato",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4504,7 +4315,7 @@
     "bio": "Co-founder / CEO @phoenixlabsdev - contributing to ⚡️Spark⚡️. Previously Protocol Engineering @SkyEcosystem (MakerDAO at the time)",
     "avatar_url": "https://unavatar.io/x/hexonaut",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4513,7 +4324,7 @@
     "bio": "founder @gelatonetwork | @arrakisfinance",
     "avatar_url": "https://unavatar.io/x/hilmarxo",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4522,7 +4333,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/tlmiyachen",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4549,7 +4360,7 @@
     "bio": "I enjoy building stuff | @_buildspace s5",
     "avatar_url": "https://unavatar.io/x/philipchenalive",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4558,7 +4369,7 @@
     "bio": "I failed the Turing Test / Dev @Nekodex_app and @perpprotocol / Also @vinta",
     "avatar_url": "https://unavatar.io/x/VintaChen",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4567,7 +4378,7 @@
     "bio": "Narrative architecture. Mythic signal. Strategic storycraft.\n\nThinker, synthesist, and storyteller exploring agency and personal sovereignty in modern life.",
     "avatar_url": "https://unavatar.io/x/_storysmyth",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -4576,7 +4387,7 @@
     "bio": "Former Bitcoin Developer and Maintainer (2013-2021). Sane voice in Bitcoin. Now working on PCBs.",
     "avatar_url": "https://unavatar.io/x/_jonasschnelli_",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4585,7 +4396,7 @@
     "bio": "chief ai officer @meta, founder @scale_ai. rational in the fullness of time",
     "avatar_url": "https://unavatar.io/x/alexandr_wang",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -4594,7 +4405,7 @@
     "bio": "gp @paradigm",
     "avatar_url": "https://unavatar.io/x/FrankieIsLost",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -4603,7 +4414,7 @@
     "bio": "CoFounder @Lombard_Finance prev: Polychain, Perennial",
     "avatar_url": "https://unavatar.io/x/JacobPPhillips",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4621,7 +4432,7 @@
     "bio": "Pirate Bug Farmer 🥀\nI'll be in the dark forest if anyone needs me.",
     "avatar_url": "https://unavatar.io/x/godsflaw",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4639,7 +4450,7 @@
     "bio": "Senior Fellow, Carnegie Endowment. \nFor speaking engagements, please contact me at chinfinpettis@yahoo.com",
     "avatar_url": "https://unavatar.io/x/michaelxpettis",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -4657,7 +4468,7 @@
     "bio": "Building @HKBuidl Angel @daedalus_angels",
     "avatar_url": "https://unavatar.io/x/RAYBEAZY",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -4666,7 +4477,7 @@
     "bio": "CTO @0xPolygon Labs | Intern @deq_fi | Blockchain Security Researcher | Ethereum & Web3 dev\n\n🦇🔊",
     "avatar_url": "https://unavatar.io/x/Mudit__Gupta",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4684,7 +4495,7 @@
     "bio": "Perpetual Optimism | #investing, social movement, my opinion is mine (乱弹琴）",
     "avatar_url": "https://unavatar.io/x/mindaoyang",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4693,7 +4504,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/0xricecake",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4702,7 +4513,7 @@
     "bio": "I'm your favorite cryptographer's favorite dropout\nBuilding @StoffelMPC\nCryptography R&D Consulting via @hashcloak",
     "avatar_url": "https://unavatar.io/x/badcryptobitch",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4711,7 +4522,7 @@
     "bio": "Better cities and transit are possible 🚇🚞 congestion pricing enjoyer         https://t.co/GOsB5tUAYg",
     "avatar_url": "https://unavatar.io/x/sam_d_1995",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -4729,7 +4540,7 @@
     "bio": "Research Comms @AnthropicAI",
     "avatar_url": "https://unavatar.io/x/StuartJRitchie",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -4738,7 +4549,7 @@
     "bio": "free speech, owner of eth and doge",
     "avatar_url": "https://unavatar.io/x/Digitizationx",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4756,7 +4567,7 @@
     "bio": "Building a culture of progress for the 21st century.\n\nSubscribe: https://t.co/72IjFgVdVk\nSupport: https://t.co/xM6IPiohiz",
     "avatar_url": "https://unavatar.io/x/rootsofprogress",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4774,7 +4585,7 @@
     "bio": "building things at Valon. previously VR, games, drones, and VC",
     "avatar_url": "https://unavatar.io/x/kylebrussell",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -4783,7 +4594,7 @@
     "bio": "✨Simplifying DeFi: Teahouse Finance provides secure, flexible asset management & concentrated liquidity expertise 🔰 Backed by @panteracapital & @appworks",
     "avatar_url": "https://unavatar.io/x/TeahouseFinance",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4792,7 +4603,7 @@
     "bio": "Co-founder of @LootexIO. Crafting products that people love to engage with. Experimenting with AI, Data, and Web3.",
     "avatar_url": "https://unavatar.io/x/davidyctseng",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -4801,7 +4612,7 @@
     "bio": "The DeFi super app.\n\nDiscord: https://t.co/35B4omxQdq",
     "avatar_url": "https://unavatar.io/x/eulerfinance",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4810,7 +4621,7 @@
     "bio": "Intern @eulerfinance.",
     "avatar_url": "https://unavatar.io/x/euler_mab",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -4828,7 +4639,7 @@
     "bio": "Optimist",
     "avatar_url": "https://unavatar.io/x/Snowsledge0x",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -4837,7 +4648,7 @@
     "bio": "building @trytbd. prev @dydx",
     "avatar_url": "https://unavatar.io/x/coreyj_miller",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4846,7 +4657,7 @@
     "bio": "onchain markets @coinbase",
     "avatar_url": "https://unavatar.io/x/alpinechicken",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4855,7 +4666,7 @@
     "bio": "Spectator.",
     "avatar_url": "https://unavatar.io/x/jerrybrito",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4864,7 +4675,7 @@
     "bio": "⚡️ @ Flashbots \n\n// Optimist who is always learning.",
     "avatar_url": "https://unavatar.io/x/bertcmiller",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -4874,7 +4685,7 @@
     "avatar_url": "https://unavatar.io/x/mgnr_io",
     "tags": [
       "crypto-trader",
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -4883,7 +4694,7 @@
     "bio": "prev @gmx_io @asgardfi",
     "avatar_url": "https://unavatar.io/x/vipineth",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4892,7 +4703,7 @@
     "bio": "Internal tech industry emails that surface in public records. 🔍",
     "avatar_url": "https://unavatar.io/x/TechEmails",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -4901,7 +4712,7 @@
     "bio": "Lead Amazon, married and father of two kids, big sports/music/film fan, experienced buffalo wings eater. Go Kraken!",
     "avatar_url": "https://unavatar.io/x/ajassy",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4910,7 +4721,7 @@
     "bio": "Founder @charmfinance\n\n*Views are my own",
     "avatar_url": "https://unavatar.io/x/CryptoMa20",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4919,7 +4730,7 @@
     "bio": "Investing @multicoin to enhance human & machine coordination. opinions are my own / not a solicitation / not an offer for investment advisory services",
     "avatar_url": "https://unavatar.io/x/kankanivishal",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4946,7 +4757,7 @@
     "bio": "Game dev building autonomous worlds, fully permissionless and persistent: \n@conquest_eth\n@stratagems_eth\n@EthernalWorld\n\nfollow: @etherplay",
     "avatar_url": "https://unavatar.io/x/wighawag",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -4964,7 +4775,7 @@
     "bio": "storytelling for technical founders @fortyiq • babies @maggielove_ • did stuff at @yale @harvardhbs @baincapital @aztecnetwork @asylumventures",
     "avatar_url": "https://unavatar.io/x/jonwu_",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -4973,7 +4784,7 @@
     "bio": "@Accomplices",
     "avatar_url": "https://unavatar.io/x/joek_777",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -5000,7 +4811,7 @@
     "bio": "Ξ 🐰🕳 🥷",
     "avatar_url": "https://unavatar.io/x/paco0x",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5009,7 +4820,7 @@
     "bio": "Advanced Perpetual Futures Exchange built on @perpprotocol.\nBy the humble apes at https://t.co/L8s3eukDbE",
     "avatar_url": "https://unavatar.io/x/apex_win",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -5027,7 +4838,7 @@
     "bio": "Coin, Token, and NFT",
     "avatar_url": "https://unavatar.io/x/xhlin",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5036,7 +4847,7 @@
     "bio": "I tweet about large orders on @perpprotocol 🐳",
     "avatar_url": "https://unavatar.io/x/perp_whales",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5054,7 +4865,7 @@
     "bio": "Research Director @PanteraCapital. co-host @indexed_pod. previously data @ Flashbots ⚡️🤖 @0xProject @ConsenSys.",
     "avatar_url": "https://unavatar.io/x/sui414",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5063,7 +4874,7 @@
     "bio": "cofounder @hibachi_xyz | @hashflow",
     "avatar_url": "https://unavatar.io/x/GandalfTheBr0wn",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -5072,7 +4883,7 @@
     "bio": "Cofounder @AlchemyPlatform supporting the builders 🚀 tweeting about startups, crypto, and Web3!⚡️",
     "avatar_url": "https://unavatar.io/x/thejoelau",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5099,7 +4910,7 @@
     "bio": "volunteer @ethtaipei",
     "avatar_url": "https://unavatar.io/x/tienshaoku",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5108,7 +4919,7 @@
     "bio": "Founder, CEO and CIO @ARKinvest. Thematic portfolio manager for disruptive innovation, mom, economist, and women's advocate. Disclosure: https://t.co/chxRD4oWOd",
     "avatar_url": "https://unavatar.io/x/CathieDWood",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -5117,7 +4928,7 @@
     "bio": "Building @Portusxyz Solver & @Protocolink & @Furucombo",
     "avatar_url": "https://unavatar.io/x/zdhu0x",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5135,7 +4946,7 @@
     "bio": "On temporary break (prev. Research @TheBlock__)",
     "avatar_url": "https://unavatar.io/x/lars0x",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5144,7 +4955,7 @@
     "bio": "Fintech analyst 🇨🇷🇭🇺🇪🇸",
     "avatar_url": "https://unavatar.io/x/sobradob",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -5154,7 +4965,7 @@
     "avatar_url": "https://unavatar.io/x/intern",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5163,7 +4974,7 @@
     "bio": "CEO @Delphi_Digital",
     "avatar_url": "https://unavatar.io/x/anildelphi",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5173,7 +4984,7 @@
     "avatar_url": "https://unavatar.io/x/thejackheavy",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5191,7 +5002,7 @@
     "bio": "head of strategy @sparkdotfi, prev @blockanalitica, angel investor",
     "avatar_url": "https://unavatar.io/x/MonetSupply",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5200,7 +5011,7 @@
     "bio": "#Web5 #Nervos #CKB #Cryptape\n\n行到水穷处，坐看云起时",
     "avatar_url": "https://unavatar.io/x/busyforking",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5209,7 +5020,7 @@
     "bio": "CEO at @0xPolygon Labs | ex-@dYdX | Opinions are my own",
     "avatar_url": "https://unavatar.io/x/0xMarcB",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5219,7 +5030,7 @@
     "avatar_url": "https://unavatar.io/x/EvgenyGaevoy",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5228,7 +5039,7 @@
     "bio": "thc-maxi (Ton hack chief) at @tonxapi. ex-Eth dev since 2016. mostly technical murmurs | @KTON_io @TONX_studio",
     "avatar_url": "https://unavatar.io/x/awesome_pei",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5238,7 +5049,7 @@
     "avatar_url": "https://unavatar.io/x/FrankResearcher",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5247,7 +5058,7 @@
     "bio": "I livetweet the Second World War as it happened on this date in 1941, & for four years to come. Third time's the charm.\nAlwyn Collinson, realtimewwii@gmail.com",
     "avatar_url": "https://unavatar.io/x/RealTimeWWII",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -5256,7 +5067,7 @@
     "bio": "❤️fixing the web | 🛠managing @filfoundation @FFDWeb @filecoin | ✍️ @gmfus @AtlanticCouncil @mozilla | CoFounder @tspainfo @tandsfoundation| 🇺🇸 @pifgov alum",
     "avatar_url": "https://unavatar.io/x/tweetclarita",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5274,7 +5085,7 @@
     "bio": "Co-founder & CEO @dune. Down with music/books/crypto/tech/econ/running/outdoors/freestyle skiing/great design in any form factor/coffee/burgundy wine etc.",
     "avatar_url": "https://unavatar.io/x/hagaetc",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5283,7 +5094,7 @@
     "bio": "Chief intern @biconomy | Building the execution layer to power the new Web! | Builder, and Fifa gamer",
     "avatar_url": "https://unavatar.io/x/AraBalaghi",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5301,7 +5112,7 @@
     "bio": "Co-founder of https://t.co/fib9nY4ZEB and former CTO of Twitter. RTs and likes are not endorsements, nor are my views the views of any affiliated companies.",
     "avatar_url": "https://unavatar.io/x/STRML_",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5310,7 +5121,7 @@
     "bio": "Partner, nCMO @Multicoin | Opinions are my own / not a solicitation / not an offer for investment advisory services",
     "avatar_url": "https://unavatar.io/x/johnrobertreed",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5319,7 +5130,7 @@
     "bio": "Financial services past, present and future.  Former acting US Comptroller of the Currency @USOCC.",
     "avatar_url": "https://unavatar.io/x/BrianBrooksUS",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -5328,7 +5139,7 @@
     "bio": "cofounder @cozyfinance",
     "avatar_url": "https://unavatar.io/x/tonysheng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -5337,7 +5148,7 @@
     "bio": "prev. @Solana Foundation | Positive Sum Games",
     "avatar_url": "https://unavatar.io/x/bennybitcoins",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5346,7 +5157,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/0x_____________",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5355,7 +5166,7 @@
     "bio": "customer support @alliance | husband & father",
     "avatar_url": "https://unavatar.io/x/QwQiao",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5364,7 +5175,7 @@
     "bio": "Student.  Founder of BlockTower.  Practical idealist.",
     "avatar_url": "https://unavatar.io/x/AriDavidPaul",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5374,7 +5185,7 @@
     "avatar_url": "https://unavatar.io/x/krugermacro",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5384,7 +5195,7 @@
     "avatar_url": "https://unavatar.io/x/AlamedaTrabucco",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5393,7 +5204,7 @@
     "bio": "Lawyer, but not yours. CLO @variantfund. Board @fund_defi + @blockchainassn. Posts are not legal or financial advice.",
     "avatar_url": "https://unavatar.io/x/jchervinsky",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5402,7 +5213,7 @@
     "bio": "fast typer @ethena_labs, ex-@paraficapital",
     "avatar_url": "https://unavatar.io/x/n2ckchong",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -5412,7 +5223,7 @@
     "avatar_url": "https://unavatar.io/x/Daryllautk",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5421,7 +5232,7 @@
     "bio": "Eating glass and staring into the abyss. ETH Maxi, crypto entrepreneur/investor, now building AI+Crypto @superintent_ai",
     "avatar_url": "https://unavatar.io/x/wilsonhuang",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -5439,7 +5250,7 @@
     "bio": "I build to earn, Founder @DappPocket (acq), Co-organizer @ETHTaipei, MCS @NTU_TW",
     "avatar_url": "https://unavatar.io/x/MrAndersonChen",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5448,7 +5259,7 @@
     "bio": "CoFounder of Aura (@ShipAloneCEO). DeFi marketer since 2018 / @perpprotocol @Safaryclub @buzhidao_tw",
     "avatar_url": "https://unavatar.io/x/0xhsing",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5457,7 +5268,7 @@
     "bio": "VC @PressStartCap | Previously: cross-border @techstars, cofounder @primacinema, product @unitedtalent, growth&UX @divxllc",
     "avatar_url": "https://unavatar.io/x/stevenmeets",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -5466,7 +5277,7 @@
     "bio": "Investment Partner @equilibrium_co (prev. @paraficapital, @TheBlock__, @AccessProtocol).",
     "avatar_url": "https://unavatar.io/x/mhonkasalo",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5484,7 +5295,7 @@
     "bio": "Running @BitcoinHubTW. Founder @tempohousehq - Community hub and restaurant in Taipei, a magnetic force field for builders, founders, and futurists.",
     "avatar_url": "https://unavatar.io/x/mike_tempohouse",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5502,7 +5313,7 @@
     "bio": "zkp developer",
     "avatar_url": "https://unavatar.io/x/KimiWu15",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -5520,7 +5331,7 @@
     "bio": "exploring connection with the sand gods | research advisor @paradigm",
     "avatar_url": "https://unavatar.io/x/_Dave__White_",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5529,7 +5340,7 @@
     "bio": "Success @3janexyz.",
     "avatar_url": "https://unavatar.io/x/uhr3al",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5538,7 +5349,7 @@
     "bio": "investment partner @multicoin",
     "avatar_url": "https://unavatar.io/x/shayonsengupta",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5547,7 +5358,7 @@
     "bio": "Partner at Multicoin Capital @multicoin | Formerly @Teneo",
     "avatar_url": "https://unavatar.io/x/mattshap1",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5556,7 +5367,7 @@
     "bio": "A tiny, complete and easy to use JavaScript library for all your Ethereum needs. Open source and MIT Licensed.",
     "avatar_url": "https://unavatar.io/x/ethersproject",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5565,7 +5376,7 @@
     "bio": "The most fun way to learn something new everyday.",
     "avatar_url": "https://unavatar.io/x/engineers_feed",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -5574,7 +5385,7 @@
     "bio": "DeFi + web3 + financial engineering. Cofounder @AcrossProtocol @UMAprotocol; prev @GoldmanSachs, CS @Columbia",
     "avatar_url": "https://unavatar.io/x/hal2001",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5583,7 +5394,7 @@
     "bio": "CEO @Polymarket. Ethereum since '14. I love music and collect art.",
     "avatar_url": "https://unavatar.io/x/shayne_coplan",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5592,7 +5403,7 @@
     "bio": "Building @ensdomains. Distilling the complicated into the simple. Curious about ZK.",
     "avatar_url": "https://unavatar.io/x/Jefflau",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5601,7 +5412,7 @@
     "bio": "Building the decentralized Web 3.0. Creator of web3.php.",
     "avatar_url": "https://unavatar.io/x/alk03073135",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5610,7 +5421,7 @@
     "bio": "Co-founder & CEO @LootexIO @Biru_gg. Life is an MMORPG.",
     "avatar_url": "https://unavatar.io/x/JustineLu6",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5619,7 +5430,7 @@
     "bio": "Together we're building the Superchain to scale Ethereum | OP Labs @OPLabsPBC | Governance @OptimismGov",
     "avatar_url": "https://unavatar.io/x/Optimism",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5628,7 +5439,7 @@
     "bio": "Liquidity plumber @0xChronux, prev. early @0xPolygon",
     "avatar_url": "https://unavatar.io/x/0xAshish",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5637,7 +5448,7 @@
     "bio": "Sabbatical | Janitor at @sgbuidl | Angel investing @daedalus_angels | prev. @superteamsg @perpprotocol",
     "avatar_url": "https://unavatar.io/x/tongnk",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -5646,7 +5457,7 @@
     "bio": "optimist @ninetyeight_hq",
     "avatar_url": "https://unavatar.io/x/imleanh_",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5655,7 +5466,7 @@
     "bio": "Co-founder of @Chainlink: industry-standard for creating the verifiable web and bringing the whole world onchain.",
     "avatar_url": "https://unavatar.io/x/SergeyNazarov",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5664,7 +5475,7 @@
     "bio": "Co-founder & Managing Partner at SparkLabs Taiwan",
     "avatar_url": "https://unavatar.io/x/edgar_chiu",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -5673,7 +5484,7 @@
     "bio": "GTL @zeeprimecap Not Investment or Fashion Advice",
     "avatar_url": "https://unavatar.io/x/mattigags",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -5682,7 +5493,7 @@
     "bio": "Building @monarchlend for defi power users. I hang out at @ethtaipei",
     "avatar_url": "https://unavatar.io/x/antonttc",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5691,7 +5502,7 @@
     "bio": "Helping @TermMaxFi. Prev. @perpprotocol, @omgnetworkhq",
     "avatar_url": "https://unavatar.io/x/weitingchentw",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5719,7 +5530,7 @@
     "bio": "prev @chainbound_ & @delphi_digital",
     "avatar_url": "https://unavatar.io/x/Paul_Burlage",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5728,7 +5539,7 @@
     "bio": "Mostly crypto things. Now @lattice_fund @gocryptopeaks. Past lives @dovemetrics @CoinList @AngelList",
     "avatar_url": "https://unavatar.io/x/reganbozman",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5737,7 +5548,7 @@
     "bio": "Tier 3 VC / Boring and uninspiring ideas / One hit wonders / Bought the right coins at the right time",
     "avatar_url": "https://unavatar.io/x/ZeePrimeCap",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -5764,7 +5575,7 @@
     "bio": "#DeFi dreamer and co-founder of @1inch, software engineer with 20+ years of experience.",
     "avatar_url": "https://unavatar.io/x/k06a",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5773,7 +5584,7 @@
     "bio": "Make @trendsdotfun awesome | HODLong 后浪 Pod @hodlongpod | grew @fslweb3 @multicoin",
     "avatar_url": "https://unavatar.io/x/mablejiang",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5782,7 +5593,7 @@
     "bio": "CTO @Injective | prev: CS @Stanford",
     "avatar_url": "https://unavatar.io/x/albertchon",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5791,7 +5602,7 @@
     "bio": "investor @multicoin",
     "avatar_url": "https://unavatar.io/x/SpencerApplebau",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5800,7 +5611,7 @@
     "bio": "CEO @ProductHunt",
     "avatar_url": "https://unavatar.io/x/rajivayyangar",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5809,7 +5620,7 @@
     "bio": "Solidity is an object-oriented, high-level language for implementing smart contracts.",
     "avatar_url": "https://unavatar.io/x/solidity_lang",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5818,7 +5629,7 @@
     "bio": "Founder @dinngohq where we built cool stuff like @deflast_finance & @furucombo & @portusxyz since 2018. organizing @ethtaipei with my frens",
     "avatar_url": "https://unavatar.io/x/hsuantingchu",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5827,7 +5638,7 @@
     "bio": "@platonia_xyz | prev: risk @gauntlet_xyz",
     "avatar_url": "https://unavatar.io/x/htkao",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5836,7 +5647,7 @@
     "bio": "alt: @tarunchitra",
     "avatar_url": "https://unavatar.io/x/angeris",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5845,7 +5656,7 @@
     "bio": "very greek accent. general partner & cto @paradigm. eng lead @tempo. optimist and rustacean.",
     "avatar_url": "https://unavatar.io/x/gakonst",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -5864,7 +5675,7 @@
     "avatar_url": "https://unavatar.io/x/cmsholdings",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5882,7 +5693,7 @@
     "bio": "prev @ARKInvest, @wharton, @pennmandt",
     "avatar_url": "https://unavatar.io/x/yassine_elman",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -5892,7 +5703,7 @@
     "avatar_url": "https://unavatar.io/x/Rewkang",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5901,7 +5712,7 @@
     "bio": "open source trading bots @_hummingbot. market maker education.",
     "avatar_url": "https://unavatar.io/x/fengtality",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -5910,7 +5721,7 @@
     "bio": "CEO @injective / part-time @HelixApp_ support-agent",
     "avatar_url": "https://unavatar.io/x/ericinjective",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5919,7 +5730,7 @@
     "bio": "Partner @archetypevc. Prev @1kxnetwork, @Bo11inger, @CoinFund_io.",
     "avatar_url": "https://unavatar.io/x/dberenzon",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -5928,7 +5739,7 @@
     "bio": "A guide to the world of platforms.",
     "avatar_url": "https://unavatar.io/x/getptplus",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -5937,7 +5748,7 @@
     "bio": "The #1 on-chain perps trading with built-in yield strategies. Creator of @WildeFinance and @Nekodex_app",
     "avatar_url": "https://unavatar.io/x/perpprotocol",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -5946,7 +5757,7 @@
     "bio": "A DeFi ecosystem with remarkable products administered by the $HAKKA token.",
     "avatar_url": "https://unavatar.io/x/HakkaFinance",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5955,7 +5766,7 @@
     "bio": "Founder @joinlegend, previously founder @compoundfinance.",
     "avatar_url": "https://unavatar.io/x/Hayesgm",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5964,7 +5775,7 @@
     "bio": "Independent non-profit fact-checker dedicated to promoting digital literacy in Taiwan.",
     "avatar_url": "https://unavatar.io/x/taiwantfc",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -5982,7 +5793,7 @@
     "bio": "usdc, $1. dai, $1. @umaprotocol, Priceless (contracts)",
     "avatar_url": "https://unavatar.io/x/allilulllc",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -5992,7 +5803,7 @@
     "avatar_url": "https://unavatar.io/x/Fiskantes",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6001,7 +5812,7 @@
     "bio": "AI buidler | Consensys | prev cofounder of Web3Auth",
     "avatar_url": "https://unavatar.io/x/bluzuli",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6010,7 +5821,7 @@
     "bio": "Building at Metamask. Ex-Founder Web3Auth (acquired), Ex Ethereum Foundation, Visa.",
     "avatar_url": "https://unavatar.io/x/zenzhenyu",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6037,7 +5848,7 @@
     "bio": "founder @_SEAL_Org, security @tempo, art @Keiseeaaa",
     "avatar_url": "https://unavatar.io/x/samczsun",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6055,7 +5866,7 @@
     "bio": "CTO & co-founder @fairmint. Fairmint makes equity moves faster, cheaper by turning cap tables into smart-contracts.",
     "avatar_url": "https://unavatar.io/x/thibauld",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6064,7 +5875,7 @@
     "bio": "Founder @VarrockVC. Previously General Partner @1confirmation.",
     "avatar_url": "https://unavatar.io/x/richardchen39",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -6073,7 +5884,7 @@
     "bio": "Co-founder @hiframework. Tweets not financial advice.",
     "avatar_url": "https://unavatar.io/x/pythianism",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -6082,7 +5893,7 @@
     "bio": "Co-founder @hiFramework - prev @hashletes, @snap and @dropbox.",
     "avatar_url": "https://unavatar.io/x/im_manderson",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6091,7 +5902,7 @@
     "bio": "eng @SuperstateInc, prev @dragonfly_xyz, @compoundfinance",
     "avatar_url": "https://unavatar.io/x/maxcwolff",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6100,7 +5911,7 @@
     "bio": "work on AI at the @whitehouse.",
     "avatar_url": "https://unavatar.io/x/sriramk",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -6109,7 +5920,7 @@
     "bio": "Deeply researched product, growth, and career advice",
     "avatar_url": "https://unavatar.io/x/lennysan",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6127,7 +5938,7 @@
     "bio": "Curve and Yield Basis",
     "avatar_url": "https://unavatar.io/x/newmichwill",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6136,7 +5947,7 @@
     "bio": "Liquidity infrastructure for decentralized finance.",
     "avatar_url": "https://unavatar.io/x/ParadigmMarket",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6145,7 +5956,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/mikemcdonald0",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6154,7 +5965,7 @@
     "bio": "@gauntlet_xyz/@robotventures/@aerafinance/@thelatestindefi/@_choppingblock/@zeroknowledgefm",
     "avatar_url": "https://unavatar.io/x/tarunchitra",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6164,7 +5975,7 @@
     "avatar_url": "https://unavatar.io/x/willywoo",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6173,7 +5984,7 @@
     "bio": "strategy steward @ flashbots. advisor @ lido, steakhouse",
     "avatar_url": "https://unavatar.io/x/hasufl",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6182,7 +5993,7 @@
     "bio": "Investing @dragonfly_xyz. Previously product @0xproject, ads product @facebook and @instagram.",
     "avatar_url": "https://unavatar.io/x/tomhschmidt",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6191,7 +6002,7 @@
     "bio": "VP Operations & Strategy @rideJOCO | prev @Uniswap",
     "avatar_url": "https://unavatar.io/x/teo_leibowitz",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6200,7 +6011,7 @@
     "bio": "Co-founder of Optimism, Optimist @OPLabsPBC. Loving Ethereum, L2, Cryptoeconomics, open source, mechanism design.",
     "avatar_url": "https://unavatar.io/x/karl_dot_tech",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6209,7 +6020,7 @@
     "bio": "@Tezos co-founder w/ wife @breitwoman & Agitprop founder.",
     "avatar_url": "https://unavatar.io/x/ArthurB",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6219,7 +6030,7 @@
     "avatar_url": "https://unavatar.io/x/zhusu",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6228,7 +6039,7 @@
     "bio": "SBF's words. Shared by a friend.",
     "avatar_url": "https://unavatar.io/x/SBF_FTX",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6237,7 +6048,7 @@
     "bio": "Working on a new thing. Previous: Partner @initialized; eng @twitter, @posterous, Clara Lending.",
     "avatar_url": "https://unavatar.io/x/vincentchu",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6255,7 +6066,7 @@
     "bio": "coder / lawyer. research at @paradigm. priority ordering reply guy",
     "avatar_url": "https://unavatar.io/x/danrobinson",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6264,7 +6075,7 @@
     "bio": "Investor. Formerly, GP @Paradigm.",
     "avatar_url": "https://unavatar.io/x/_charlienoyes",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -6282,7 +6093,7 @@
     "bio": "@Balancer co-founder, all opinions my own.",
     "avatar_url": "https://unavatar.io/x/fcmartinelli",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6309,7 +6120,7 @@
     "bio": "Native oracle maximalist. Generative AI enthusiast. Co-Founder @BandProtocol.",
     "avatar_url": "https://unavatar.io/x/nomorebear",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -6336,7 +6147,7 @@
     "bio": "Wall Street Journal reporter in Hong Kong covering China and the world.",
     "avatar_url": "https://unavatar.io/x/austinramzy",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -6345,7 +6156,7 @@
     "bio": "ceo, cofounder @raindrop_ai",
     "avatar_url": "https://unavatar.io/x/snarkyzk",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -6354,7 +6165,7 @@
     "bio": "Editor at Large, @a16z.",
     "avatar_url": "https://unavatar.io/x/Alex_Danco",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -6363,7 +6174,7 @@
     "bio": "I have a place where I say complicated things about philosophy and science. This is where I make terrible puns.",
     "avatar_url": "https://unavatar.io/x/slatestarcodex",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6399,7 +6210,7 @@
     "bio": "General Partner at @ElectricCapital. Supporting DeFi since 2018.",
     "avatar_url": "https://unavatar.io/x/puntium",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6408,7 +6219,7 @@
     "bio": "Let's build great things and win. Founder & CEO of Synthetic. Fmr CEO and Co-founder of @bench and Teal.",
     "avatar_url": "https://unavatar.io/x/ianwcrosby",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6417,7 +6228,7 @@
     "bio": "Investing in Consumer Crypto @1confirmation. cofounder @palmtreecrypto",
     "avatar_url": "https://unavatar.io/x/blockchainbrett",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6444,7 +6255,7 @@
     "bio": "Into after-tax total return, the quality without a name, and a well-aged shitpost.",
     "avatar_url": "https://unavatar.io/x/TaylorPearsonMe",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -6453,7 +6264,7 @@
     "bio": "10th known contributor to Bitcoin Core. Full-Time Open-Source Bitcoin+Lightning Projects @spiralbtc.",
     "avatar_url": "https://unavatar.io/x/TheBlueMatt",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6462,7 +6273,7 @@
     "bio": "Ethereum Flying Spaghetti Dev. Founder @HakkaFinance Founder @Pelith_",
     "avatar_url": "https://unavatar.io/x/PingChenTW",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6471,7 +6282,7 @@
     "bio": "Independent researcher",
     "avatar_url": "https://unavatar.io/x/ChihChengLiang",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6480,7 +6291,7 @@
     "bio": "Official national television station of ROC.",
     "avatar_url": "https://unavatar.io/x/EYECTelevision",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6489,7 +6300,7 @@
     "bio": "用來記錄每日推特熱門話題，個人向。在被鯨魚帶走前，用力地活著",
     "avatar_url": "https://unavatar.io/x/LarryBirdWhale",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6507,7 +6318,7 @@
     "bio": "Living my best life @JoinRepublic",
     "avatar_url": "https://unavatar.io/x/KendrickEsq",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -6516,7 +6327,7 @@
     "bio": "Gofounder at Geometry",
     "avatar_url": "https://unavatar.io/x/tomwalpo",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6525,7 +6336,7 @@
     "bio": "imToken Labs",
     "avatar_url": "https://unavatar.io/x/changwu_tw",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6534,7 +6345,7 @@
     "bio": "Silicon Valley entrepreneur, investor (General Partner @a16z), husband, father",
     "avatar_url": "https://unavatar.io/x/arampell",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -6543,7 +6354,7 @@
     "bio": "Designer & Investor @Strangefund. Focused on the future of computing.",
     "avatar_url": "https://unavatar.io/x/taratan",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -6588,7 +6399,7 @@
     "bio": "accelerate",
     "avatar_url": "https://unavatar.io/x/profjasonpotts",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -6597,7 +6408,7 @@
     "bio": "Author STREETS OF GOLD. Economic history. Mom of 3.",
     "avatar_url": "https://unavatar.io/x/leah_boustan",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -6606,7 +6417,7 @@
     "bio": "coordination arms dealer @unchainiran @0xbowio @letsgethai @reflexerfinance @molochdao",
     "avatar_url": "https://unavatar.io/x/ameensol",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6624,7 +6435,7 @@
     "bio": "something new. fmr: CTO @opensea, CEO @Dharma_HQ",
     "avatar_url": "https://unavatar.io/x/NadavAHollander",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6633,7 +6444,7 @@
     "bio": "eliminate the gap between imagination and reality",
     "avatar_url": "https://unavatar.io/x/zoink",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6642,7 +6453,7 @@
     "bio": "Venture capitalist at @theoryvc. Student of Startups. Backer of 9 unicorns.",
     "avatar_url": "https://unavatar.io/x/ttunguz",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -6651,7 +6462,7 @@
     "bio": "monetary economics|history of money|central banking|cryptocurrency|monetary law|financial crime",
     "avatar_url": "https://unavatar.io/x/jp_koning",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6660,7 +6471,7 @@
     "bio": "A powerful, safe, and easy-to-use crypto accounting solution.",
     "avatar_url": "https://unavatar.io/x/DecoreHQ",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6669,7 +6480,7 @@
     "bio": "partner @baincapcrypto",
     "avatar_url": "https://unavatar.io/x/alexhevans",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6678,7 +6489,7 @@
     "bio": "Cofounder of Sky (fka MakerDAO) @SkyEcosystem",
     "avatar_url": "https://unavatar.io/x/RuneKek",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6687,7 +6498,7 @@
     "bio": "Founder @OurNetwork__ Crypto Angel Investor",
     "avatar_url": "https://unavatar.io/x/spencernoon",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6696,7 +6507,7 @@
     "bio": "Co-Founder @SupermoveCo",
     "avatar_url": "https://unavatar.io/x/mark_miyashita",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6714,7 +6525,7 @@
     "bio": "Canberra Bureau Chief @FinancialReview",
     "avatar_url": "https://unavatar.io/x/niccijsmith",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -6723,7 +6534,7 @@
     "bio": "Managing Director, Indo-Pacific Program, German Marshall Fund @GMFAsia",
     "avatar_url": "https://unavatar.io/x/BonnieGlaser",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6732,7 +6543,7 @@
     "bio": "Privacy coordinator, Ethereum Foundation. prev: founder of Blockscout @blockscout, xDai aka @gnosischain",
     "avatar_url": "https://unavatar.io/x/barinov",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6741,7 +6552,7 @@
     "bio": "Educating the world on crypto.",
     "avatar_url": "https://unavatar.io/x/TheBlock__",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6750,7 +6561,7 @@
     "bio": "crypto investing/research @paradigm, technology, history, strategy games. optimist",
     "avatar_url": "https://unavatar.io/x/arjunblj",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6759,7 +6570,7 @@
     "bio": "Ex-CPO Tinder, Norgard Capital",
     "avatar_url": "https://unavatar.io/x/BrianNorgard",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6768,7 +6579,7 @@
     "bio": "Listings @Coinbase.",
     "avatar_url": "https://unavatar.io/x/zosegal",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6777,7 +6588,7 @@
     "bio": "Invented the Uniswap protocol, Founder @Uniswap",
     "avatar_url": "https://unavatar.io/x/haydenzadams",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6786,7 +6597,7 @@
     "bio": "A research-driven firm dedicated to making crypto happen sooner and better.",
     "avatar_url": "https://unavatar.io/x/Delphi_Digital",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6804,7 +6615,7 @@
     "bio": "ceo / co-founder @phantom | ex-@0xProject, @twitter / @x",
     "avatar_url": "https://unavatar.io/x/BChillman",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6813,7 +6624,7 @@
     "bio": "Co-Founder & Chief Customer Service Officer @Binance",
     "avatar_url": "https://unavatar.io/x/heyibinance",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6840,7 +6651,7 @@
     "bio": "Chairman&CEO of Bitdeer. $BTDR. Co-founder of Matrixport.",
     "avatar_url": "https://unavatar.io/x/JihanWu",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -6867,7 +6678,7 @@
     "bio": "Building @OFRFUND. Ex-VP M&A @Binance. @PKU1898 @Harvard",
     "avatar_url": "https://unavatar.io/x/lingzh1220",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6912,7 +6723,7 @@
     "bio": "eng @coinbase",
     "avatar_url": "https://unavatar.io/x/LiamKovatch",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -6921,7 +6732,7 @@
     "bio": "CEO@Cold Electric. CEO@New Taipei Kings. Founding Partner @RaceCapital. Founder @htcvive",
     "avatar_url": "https://unavatar.io/x/philchen77",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -6957,7 +6768,7 @@
     "bio": "nat.dev",
     "avatar_url": "https://unavatar.io/x/natfriedman",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6966,7 +6777,7 @@
     "bio": "nic.dev",
     "avatar_url": "https://unavatar.io/x/nic_carter",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -6975,7 +6786,7 @@
     "bio": "tinkering. co-founder & board @eco @lightworkhome @join_freeworld; co-founder & prev CEO @coinlist",
     "avatar_url": "https://unavatar.io/x/andy_bromberg",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -6984,7 +6795,7 @@
     "bio": "@Stripe CEO, @ArcInstitute cofounder.",
     "avatar_url": "https://unavatar.io/x/patrickc",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -6993,7 +6804,7 @@
     "bio": "Entrepreneur. Armchair Economist. Practical Contrarian. Chairman & Co-founder @PraxosCap",
     "avatar_url": "https://unavatar.io/x/VinnyLingham",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -7002,7 +6813,7 @@
     "bio": "Cofounder and Managing Partner @Multicoin",
     "avatar_url": "https://unavatar.io/x/tushar_jain",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7011,7 +6822,7 @@
     "bio": "CEO @superstateinc, Investor @robotventures, prev founded Compound",
     "avatar_url": "https://unavatar.io/x/rleshner",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7020,7 +6831,7 @@
     "bio": "GP @a16z — Building American Dynamism — Formerly Founder/CEO @OpenDNS",
     "avatar_url": "https://unavatar.io/x/davidu",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -7038,7 +6849,7 @@
     "bio": "lunch valuation analyst",
     "avatar_url": "https://unavatar.io/x/matt_levine",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -7047,7 +6858,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/zhitzig",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -7056,7 +6867,7 @@
     "bio": "Papa; hub. of @ProfTortuga; Jew; co-founder @MSFTResearch Plural Tech. Collab., @RadxChange, @PluralityInst; co-author Radical Markets & @PluralityBook",
     "avatar_url": "https://unavatar.io/x/glenweyl",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -7065,7 +6876,7 @@
     "bio": "@warpdex contributor",
     "avatar_url": "https://unavatar.io/x/jcp",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7074,7 +6885,7 @@
     "bio": "Bitcoin security researcher",
     "avatar_url": "https://unavatar.io/x/drakefjustin",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7083,7 +6894,7 @@
     "bio": "Preventing human-machines conflicts since 2014. Ethereum Foundation Alumni (2014-2018), co-founder of ENS (2017), co-founder of Higher Order Company (2023).",
     "avatar_url": "https://unavatar.io/x/avsa",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7092,7 +6903,7 @@
     "bio": "Arthur Hayes, Co-Founder of BitMEX & CIO @Maelstromfund",
     "avatar_url": "https://unavatar.io/x/CryptoHayes",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7101,7 +6912,7 @@
     "bio": "Lead developer of ENS & Ethereum Foundation alum. Certified rat tickler. he/him.",
     "avatar_url": "https://unavatar.io/x/nicksdjohnson",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7110,7 +6921,7 @@
     "bio": "passionate about working on things that enable people to know more, do more, and be more...",
     "avatar_url": "https://unavatar.io/x/qilu",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -7119,7 +6930,7 @@
     "bio": "Partner at @FoundersFund Cofounder of @Eco & @AugurProject joey@foundersfund.com for decks/dealflow",
     "avatar_url": "https://unavatar.io/x/joeykrug",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7173,7 +6984,7 @@
     "bio": "From the bottom to the top & back again. Co-founded @twitch, now working on making videos, http://goat.vc https://stash.gg @rye",
     "avatar_url": "https://unavatar.io/x/justinkan",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -7182,7 +6993,7 @@
     "bio": "Professor in Computer Science at UC Berkeley, co-Director of Berkeley RDI Center; Building safe, secure, decentralized AI; Serial entrepreneur",
     "avatar_url": "https://unavatar.io/x/dawnsongtweets",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -7191,7 +7002,7 @@
     "bio": "Student of causal inference, human reasoning, and history of ideas, all viewed through the sharp lens of artificial intelligence.",
     "avatar_url": "https://unavatar.io/x/yudapearl",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -7218,7 +7029,7 @@
     "bio": "Partner @RaceCapital | Backed: Solana, Databricks, Groq (NVIDIA), PlayAI (Meta), GoodNotes, Vectara, ClerkChat, AirMDR | ex @GreylockVC",
     "avatar_url": "https://unavatar.io/x/Chrismccann",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -7236,7 +7047,7 @@
     "bio": "Housekeeping @pendle_fi and @boros_fi",
     "avatar_url": "https://unavatar.io/x/tn_pendle",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7272,7 +7083,7 @@
     "bio": "Official Twitter page of the SF Ethereum Meetup. Organized by @ZaneWithSpoon, @Matt_bitcoin and @AnnMarieAlanes",
     "avatar_url": "https://unavatar.io/x/SFEthereum",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7281,7 +7092,7 @@
     "bio": "Partner @placeholdervc",
     "avatar_url": "https://unavatar.io/x/jmonegro",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7290,7 +7101,7 @@
     "bio": "Fair money @aboutCircles, Co-founded Gnosis. Supporting @gnosisDAO, @gnosischain, @gnosisSafe, @gnosisguild, @gnosispay, @cowswap",
     "avatar_url": "https://unavatar.io/x/koeppelmann",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7299,7 +7110,7 @@
     "bio": "@1confirmation. low extraversion, high conviction",
     "avatar_url": "https://unavatar.io/x/NTmoney",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7308,7 +7119,7 @@
     "bio": "@ethereumfndn Co-Executive Director | Bulbasaur Study | https://warpcast.com/hww",
     "avatar_url": "https://unavatar.io/x/hwwonx",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7317,7 +7128,7 @@
     "bio": "Founder, @Dialectic_Group, @VineVentures @1OF1_Art. Building things that I want for my fam & I while exploring what is true in the new world order.",
     "avatar_url": "https://unavatar.io/x/kukulabanze",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -7326,7 +7137,7 @@
     "bio": "Cofounder @ritualnet. Previously GP @polychain, @IllinoisCS.",
     "avatar_url": "https://unavatar.io/x/niraj",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7371,7 +7182,7 @@
     "bio": "Obsessed with Knowledge, Science, and Technology -- Protocol Labs, IPFS, Filecoin -- http://juan.benet.ai",
     "avatar_url": "https://unavatar.io/x/juanbenet",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7380,7 +7191,7 @@
     "bio": "Co-founder of @ethereum | Founder of @Consensys | Chairman of @ConsensysMesh | Chairman of @SharpLinkGaming $SBET. Building on #ETH. Views expressed are my own.",
     "avatar_url": "https://unavatar.io/x/ethereumJoseph",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7389,7 +7200,7 @@
     "bio": "co-founder @electriccapital / oss maintainer",
     "avatar_url": "https://unavatar.io/x/jubos",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -7398,7 +7209,7 @@
     "bio": "Founder of @TrustWallet",
     "avatar_url": "https://unavatar.io/x/vikmeup",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -7407,7 +7218,7 @@
     "bio": "founder @paradigm, founder @tempo, board member @stripe, building & investing at the frontier",
     "avatar_url": "https://unavatar.io/x/matthuang",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -7416,7 +7227,7 @@
     "bio": "Co-Founder @ElectricCapital. Chairman @crypto_council. Views are my own; DYOR",
     "avatar_url": "https://unavatar.io/x/avichal",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7425,7 +7236,7 @@
     "bio": "Prev @viamirror",
     "avatar_url": "https://unavatar.io/x/Iiterature",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -7434,7 +7245,7 @@
     "bio": "…loading",
     "avatar_url": "https://unavatar.io/x/jon_choi_",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7452,7 +7263,7 @@
     "bio": "Co-founder @0xProject / @matchaxyz",
     "avatar_url": "https://unavatar.io/x/willwarren",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7461,7 +7272,7 @@
     "bio": "crypto / ai enthusiast and investor. enjoy jiu jitsu + rock climbing.",
     "avatar_url": "https://unavatar.io/x/jcliff42",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7488,7 +7299,7 @@
     "bio": "building Salmon Labs; early investor @retool @viseinc @biorender @hightouchdata @culturebiosci @seldon_io @graphite @techstars",
     "avatar_url": "https://unavatar.io/x/ckevinliu",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -7497,7 +7308,7 @@
     "bio": "General Partner @a16z crypto. Previously Google Brain, GoogleX, @Stanford Computer Science.",
     "avatar_url": "https://unavatar.io/x/alive_eth",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7506,7 +7317,7 @@
     "bio": "ceo @ProofOfPlay. co-creator, @FarmVille; managing partner, @PresenceCapital",
     "avatar_url": "https://unavatar.io/x/amittm",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7515,7 +7326,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/twnmemory",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -7524,7 +7335,7 @@
     "bio": "Founder @dYdX",
     "avatar_url": "https://unavatar.io/x/AntonioMJuliano",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7551,7 +7362,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/kevinsimler",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -7560,7 +7371,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/godscompiler",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -7578,7 +7389,7 @@
     "bio": "Founder @stacks, the missing layer of bitcoin.",
     "avatar_url": "https://unavatar.io/x/muneeb",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7615,7 +7426,7 @@
     "avatar_url": "https://unavatar.io/x/ercwl",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7624,7 +7435,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/multicoin",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7678,7 +7489,7 @@
     "bio": "Breather, Thought Follower, Cereal Intrepreneur. Director of Dull Sculleries at the Institute for Lemonade Studies. I do other stuff too.",
     "avatar_url": "https://unavatar.io/x/fluffypony",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -7687,7 +7498,7 @@
     "bio": "Absurdist, Gengar trainer, Karen NPC, troll",
     "avatar_url": "https://unavatar.io/x/VladZamfir",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7696,7 +7507,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ethfans",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7741,7 +7552,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/VitalikButerin",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7750,7 +7561,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ETHNews_",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -7768,7 +7579,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/edge",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -7822,7 +7633,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/1843mag",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -7831,7 +7642,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Techmeme",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -7885,7 +7696,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/paulkrugman",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7894,7 +7705,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/economistmeg",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -7903,7 +7714,7 @@
     "bio": "new book *Talent: How to Identify Energizers, Winners, and Creatives Around the World*, http://marginalrevolution.com, Conversations with Tyler, The Free Press.",
     "avatar_url": "https://unavatar.io/x/tylercowen",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -7930,7 +7741,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/EricTopol",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -7948,7 +7759,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/leonidkruglyak",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -7975,7 +7786,7 @@
     "bio": "Writes about economics, posts about rabbits. For serious opinions/analysis, read my blog: http://noahpinion.blog",
     "avatar_url": "https://unavatar.io/x/Noahpinion",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -8020,7 +7831,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/econjared",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -8137,7 +7948,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/KaiserKuo",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -8155,7 +7966,7 @@
     "bio": "Chief AGI Scientist & Co-Founder, Google DeepMind",
     "avatar_url": "https://unavatar.io/x/ShaneLegg",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -8236,7 +8047,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/antgoldbloom",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -8254,7 +8065,7 @@
     "bio": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
     "avatar_url": "https://unavatar.io/x/demishassabis",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -8281,7 +8092,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/medriscoll",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -8299,7 +8110,7 @@
     "bio": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",
     "avatar_url": "https://unavatar.io/x/drfeifei",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -8389,7 +8200,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/TensorFlow",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -8407,7 +8218,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/PopSci",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -8461,7 +8272,7 @@
     "bio": "I'm a consultant and business owner. I worked at Microsoft for decades and was a partner at Eagle River, a private equity firm. I serve on several boards.",
     "avatar_url": "https://unavatar.io/x/trengriffin",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -8488,7 +8299,7 @@
     "bio": "Building @moaicash | Before @sloikaxyz and founder @500px (acquired). Beep beep boop.",
     "avatar_url": "https://unavatar.io/x/ev_jpeg",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -8533,7 +8344,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/HyperDevIt",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -8551,7 +8362,7 @@
     "bio": "Forbes contributor | At the intersection of free banking, cryptography, and digital currency | Chief Economist at Sol Strategies Inc",
     "avatar_url": "https://unavatar.io/x/jonmatonis",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -8560,7 +8371,7 @@
     "bio": "Blockchain, cryptocurrency, and smart contracts pioneer. Blog: https://unenumerated.blogspot.com",
     "avatar_url": "https://unavatar.io/x/NickSzabo4",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -8569,7 +8380,7 @@
     "bio": "Working on RiskiPedia",
     "avatar_url": "https://unavatar.io/x/gavinandresen",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -8587,7 +8398,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/electronjs",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -8605,7 +8416,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/BasicIncomeAct",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -8659,7 +8470,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/TensorFlo",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -8686,7 +8497,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ChuBailiang",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -8695,7 +8506,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/PekingMike",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -8722,7 +8533,7 @@
     "bio": "Rippling payroll & HRIS admin, CEO.",
     "avatar_url": "https://unavatar.io/x/parkerconrad",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -8776,7 +8587,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/JackieLeeETH",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -8821,7 +8632,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/CocoaSamurai",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -8830,7 +8641,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/NatashaTheRobot",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -8911,7 +8722,7 @@
     "bio": "God is in the details.",
     "avatar_url": "https://unavatar.io/x/chamath",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -8920,7 +8731,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/jaichoi",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -8974,7 +8785,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/AniHistory",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9028,7 +8839,7 @@
     "bio": "Founder, CEO at @telegram (2013), founder, ex-CEO of @vkontakte (2006), part-time troll.",
     "avatar_url": "https://unavatar.io/x/durov",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -9055,7 +8866,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/PDWTaiwan",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -9091,7 +8902,7 @@
     "bio": "VC at http://usv.com. Blog at http://continuations.com. Book at http://worldaftercapital.org.",
     "avatar_url": "https://unavatar.io/x/albertwenger",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -9109,7 +8920,7 @@
     "bio": "Former product guy at Amazon, Hulu, Flipboard, Oculus. Blog at http://eugenewei.com",
     "avatar_url": "https://unavatar.io/x/eugenewei",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -9127,7 +8938,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/codetengu",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9190,7 +9001,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/PHP_CEO",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -9271,7 +9082,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/sinclair",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -9325,7 +9136,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/StartupLJackson",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -9370,7 +9181,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/arjunsethi",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -9388,7 +9199,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/packetzoom",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9406,7 +9217,7 @@
     "bio": "ceo @box - your business lives in content. unleash it with AI",
     "avatar_url": "https://unavatar.io/x/levie",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -9424,7 +9235,7 @@
     "bio": "Slack boss • Flickr co-founder • Thought loser • I'm trying my hardest!",
     "avatar_url": "https://unavatar.io/x/stewart",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -9550,7 +9361,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/jjobear",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -9694,7 +9505,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/XDevelopers",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9721,7 +9532,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/duanzi",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -9730,7 +9541,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/sandimac",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -9739,7 +9550,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Horse_iOS",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9757,7 +9568,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/jtlai",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -9793,7 +9604,7 @@
     "bio": "Co-Founder, LinkedIn. Investor. MSFT Board Member. Building an LLM to discover cures for cancer: @manas_co.",
     "avatar_url": "https://unavatar.io/x/reidhoffman",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -9811,7 +9622,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/SoldaApp",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9820,7 +9631,7 @@
     "bio": "@homebrew @screendoorvc @cbarlerin @daisyfleets",
     "avatar_url": "https://unavatar.io/x/hunterwalk",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -9847,7 +9658,7 @@
     "bio": "Building beautiful things like Mojo and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.",
     "avatar_url": "https://unavatar.io/x/clattner_llvm",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -9883,7 +9694,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/thegodfounder",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9937,7 +9748,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/tinacheng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -9991,7 +9802,7 @@
     "bio": "Amor vincit omnia",
     "avatar_url": "https://unavatar.io/x/jankoum",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -10009,7 +9820,7 @@
     "bio": "AI is cool i guess",
     "avatar_url": "https://unavatar.io/x/sama",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -10018,7 +9829,7 @@
     "bio": "CEO, Google and Alphabet",
     "avatar_url": "https://unavatar.io/x/sundarpichai",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -10072,7 +9883,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/noaml",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -10081,7 +9892,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/SusanWojcicki",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10090,7 +9901,7 @@
     "bio": "Chairman and CEO at Microsoft",
     "avatar_url": "https://unavatar.io/x/satyanadella",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -10144,7 +9955,7 @@
     "bio": "Decent white.",
     "avatar_url": "https://unavatar.io/x/pmarca",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -10189,7 +10000,7 @@
     "bio": "Founder/CEO of Dropbox · Board of directors at Meta",
     "avatar_url": "https://unavatar.io/x/drewhouston",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10207,7 +10018,7 @@
     "bio": "CEO @Snap",
     "avatar_url": "https://unavatar.io/x/evanspiegel",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10270,7 +10081,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/jason1peng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -10279,7 +10090,7 @@
     "bio": "Apple CEO. Auburn. Duke. National Parks.",
     "avatar_url": "https://unavatar.io/x/tim_cook",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10288,7 +10099,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/sequoia",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -10315,7 +10126,7 @@
     "bio": "Founder: @mixpanel. Pizzatarian, programmer, music maker",
     "avatar_url": "https://unavatar.io/x/Suhail",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -10369,7 +10180,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/pkafka",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10405,7 +10216,7 @@
     "bio": "I am a VC",
     "avatar_url": "https://unavatar.io/x/fredwilson",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -10441,7 +10252,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ycombinator",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10459,7 +10270,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/AngelList",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -10513,7 +10324,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/a16z",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -10522,7 +10333,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/bhorowitz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -10540,7 +10351,7 @@
     "bio": "Indoor enthusiast. Co-founder http://stackoverflow.com / http://discourse.org.",
     "avatar_url": "https://unavatar.io/x/codinghorror",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10576,7 +10387,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/jpaine",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -10612,7 +10423,7 @@
     "bio": "Sunshine, Yahoo, Google, San Franciscan, Wisconsinite, Geek.",
     "avatar_url": "https://unavatar.io/x/marissamayer",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -10693,7 +10504,7 @@
     "bio": "Sharing things I'm learning through my foundation work and other interests.",
     "avatar_url": "https://unavatar.io/x/BillGates",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10738,7 +10549,7 @@
     "bio": "Threads: @gruber ★ Mastodon: https://mastodon.social/@gruber ★ Bluesky: @gruber.foo",
     "avatar_url": "https://unavatar.io/x/gruber",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10765,7 +10576,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/venturehacks",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10774,7 +10585,7 @@
     "bio": "entrepreneur, investor, contrarian",
     "avatar_url": "https://unavatar.io/x/rabois",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -10801,7 +10612,7 @@
     "bio": "Author. VC @benchmark, Investor: @zillow, @uber, @stitchfix, @nextdoor",
     "avatar_url": "https://unavatar.io/x/bgurley",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -10810,7 +10621,7 @@
     "bio": "Entrepreneur & Investor",
     "avatar_url": "https://unavatar.io/x/eladgil",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -10873,7 +10684,7 @@
     "bio": "Affirm, Glow, SciFi.",
     "avatar_url": "https://unavatar.io/x/mlevchin",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10918,7 +10729,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/TimBull",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -10927,7 +10738,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/sparker",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -10963,7 +10774,7 @@
     "bio": "2x entrepreneur. Sold both companies (last to @salesforce). Now @UpfrontVC looking to invest in passionate entrepreneurs.",
     "avatar_url": "https://unavatar.io/x/msuster",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -10972,7 +10783,7 @@
     "bio": "Incompressible",
     "avatar_url": "https://unavatar.io/x/naval",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -10999,7 +10810,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/chengmatt",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -11008,7 +10819,7 @@
     "bio": "Programming, philosophy, history, internet, startups, crypto. Managing Partner @a16zcrypto.",
     "avatar_url": "https://unavatar.io/x/cdixon",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -11035,7 +10846,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/nevermai",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -11062,7 +10873,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/TomLimongello",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -11089,7 +10900,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/signalBrian",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -11161,7 +10972,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/HaishaChen",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -11215,7 +11026,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/andreazurek",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -11251,7 +11062,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/mengwong",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -11287,7 +11098,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Jackyyapp",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11341,7 +11152,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/christine_tsai",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -11422,7 +11233,7 @@
     "bio": "co-founder of Fog Creek, Trello, Stack Overflow, Glitch, and http://HASH.ai",
     "avatar_url": "https://unavatar.io/x/spolsky",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -11431,7 +11242,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/AppStore",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -11440,7 +11251,7 @@
     "bio": "http://linkedin.com/in/dediu http://mastodon.social/@asymco http://micromobility.io",
     "avatar_url": "https://unavatar.io/x/asymco",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -11467,7 +11278,7 @@
     "bio": "founder: http://PracticalVC.com http://500.co http://42geeks.com | alum: JHU PayPal FoundersFund",
     "avatar_url": "https://unavatar.io/x/davemcclure",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -11485,7 +11296,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/textfromxcode",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11494,7 +11305,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/XEng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11512,7 +11323,7 @@
     "bio": "a16z speedrun",
     "avatar_url": "https://unavatar.io/x/andrewchen",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -11539,7 +11350,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/TaiKuChen",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -11602,7 +11413,7 @@
     "bio": "Founder and CEO, O'Reilly Media. Watching the alpha geeks, sharing their stories, helping the future unfold.",
     "avatar_url": "https://unavatar.io/x/timoreilly",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -11611,7 +11422,7 @@
     "bio": "no state is the best state",
     "avatar_url": "https://unavatar.io/x/jack",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11629,7 +11440,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/getpopapp",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11647,7 +11458,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/victorlamhk",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -11665,7 +11476,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/github",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11728,7 +11539,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/sandofsky",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -11809,7 +11620,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/pirrer",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -11863,7 +11674,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/chenglap",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -11881,7 +11692,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/StarCraft",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11944,7 +11755,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/FirefoxWebDevs",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -11971,7 +11782,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/dytsai",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -11989,7 +11800,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Yuancheng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12061,7 +11872,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/haocheng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12070,7 +11881,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/tempofeng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12124,7 +11935,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/irrenhaeusler",
     "tags": [
-      "vc"
+      "vc-entity"
     ]
   },
   {
@@ -12187,7 +11998,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/gjtaiwan",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -12205,7 +12016,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/googledevs",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12241,7 +12052,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ponpondapipi",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12376,7 +12187,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Lairos",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -12403,7 +12214,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/pofeng",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12557,7 +12368,7 @@
     "avatar_url": "https://unavatar.io/x/MacroMargin",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -12566,7 +12377,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/mengkunghsieh",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12611,7 +12422,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/SurfAI",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -12629,7 +12440,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/yieldbasis",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -12638,7 +12449,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Zai_org",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -12665,7 +12476,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Cloudflare",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12674,7 +12485,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/blueprintAI",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -12683,7 +12494,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/gethuxe",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -12692,7 +12503,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/CloudflareDev",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -12701,7 +12512,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/shieldaitech",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -12719,7 +12530,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/SKYGG_Official",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -12782,7 +12593,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/CarlotaPrzPerez",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -12791,7 +12602,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/damienhci",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -12809,7 +12620,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/metaproph3t",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -12818,7 +12629,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Kimi_Moonshot",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -12845,7 +12656,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/hylarucoder",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12863,7 +12674,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/googleaidevs",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -12872,7 +12683,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/romainhuet",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -12890,7 +12701,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/Filo_Mail",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -12908,7 +12719,7 @@
     "bio": "building @bunjavascript at @anthropicai. formerly: @stripe (twice) @thielfellowship. high school dropout. npm i -g bun",
     "avatar_url": "https://unavatar.io/x/jarredsumner",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -12935,7 +12746,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ShipAloneCEO",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -12944,7 +12755,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/OfficialLoganK",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -12953,7 +12764,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/claudeai",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -12971,7 +12782,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/shengjia_zhao",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -12998,7 +12809,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/lovart_ai",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -13007,7 +12818,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/OmoProtocol",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13053,7 +12864,7 @@
     "avatar_url": "https://unavatar.io/x/onechancefreedm",
     "tags": [
       "crypto-trader",
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -13062,7 +12873,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/GeminiApp",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -13071,7 +12882,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ethereumhouseSF",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -13080,7 +12891,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/DecartAI",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -13089,7 +12900,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/yield_xyz",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13125,7 +12936,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/agentmail",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13152,7 +12963,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/0xSim0",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13161,7 +12972,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/SaildotMoney",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -13170,7 +12981,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/gizatechxyz",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -13179,7 +12990,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/dexhorthy",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13197,7 +13008,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ManifoldMarkets",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13251,7 +13062,7 @@
     "bio": "entrepreneurship zealot, grounded technology possibilist, believer in the power of ideas, passionate about sustainability & impact",
     "avatar_url": "https://unavatar.io/x/vkhosla",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -13260,7 +13071,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/adamdangelo",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -13278,7 +13089,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/GoogleCloudTech",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13296,7 +13107,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/bridge__harris",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13305,7 +13116,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/foundersfund",
     "tags": [
-      "vc"
+      "vc-person"
     ]
   },
   {
@@ -13314,7 +13125,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/jackforestell",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13350,7 +13161,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/mitsuhiko",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13359,7 +13170,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/0xJaehaerys",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13377,7 +13188,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/GoogleDeepMind",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -13386,7 +13197,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/claude_code",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -13431,7 +13242,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/zhenthebuilder",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13503,7 +13314,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/wildefinance",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13521,7 +13332,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/aparnacd",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -13539,7 +13350,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/BrainEngineer",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13566,7 +13377,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/illscience",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13584,7 +13395,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/augmentcode",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13593,7 +13404,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/stuffyokodraws",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -13638,7 +13449,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/LumaLabsAI",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -13674,7 +13485,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/OpenAIDevs",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -13719,7 +13530,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/dopplerprotocol",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13728,7 +13539,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/pure_markets",
     "tags": [
-      "finance"
+      "finance-person"
     ]
   },
   {
@@ -13737,7 +13548,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/malleshpai",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -13755,7 +13566,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/circle",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -13782,7 +13593,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ericzakariasson",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -13872,7 +13683,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/woj_zaremba",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -13881,7 +13692,7 @@
     "bio": "@BNBchain @YZiLabs @GiggleAcademy @binance",
     "avatar_url": "https://unavatar.io/x/cz_binance",
     "tags": [
-      "crypto"
+      "crypto-person"
     ]
   },
   {
@@ -13899,7 +13710,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/ryanycwEth",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -13971,7 +13782,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/MaelstromFund",
     "tags": [
-      "finance"
+      "finance-entity"
     ]
   },
   {
@@ -13980,7 +13791,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/BarterDeFi",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -14007,7 +13818,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/chathub_app",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -14016,7 +13827,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/MaheshMurag",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -14034,7 +13845,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/dr_cintas",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -14106,7 +13917,7 @@
     "bio": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
     "avatar_url": "https://unavatar.io/x/lilianweng",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -14115,7 +13926,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/thelatestindefi",
     "tags": [
-      "crypto"
+      "crypto-entity"
     ]
   },
   {
@@ -14124,7 +13935,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/AnthropicAI",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -14142,7 +13953,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/apolloaievals",
     "tags": [
-      "ai"
+      "ai-person"
     ]
   },
   {
@@ -14187,7 +13998,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/karminski3",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -14223,7 +14034,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/YuchengJiang0",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
@@ -14232,7 +14043,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/aion5100",
     "tags": [
-      "ai"
+      "ai-entity"
     ]
   },
   {
@@ -14331,7 +14142,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/bytebytego",
     "tags": [
-      "tech"
+      "tech-entity"
     ]
   },
   {
@@ -14349,7 +14160,7 @@
     "bio": "",
     "avatar_url": "https://unavatar.io/x/dharmesh",
     "tags": [
-      "tech"
+      "tech-person"
     ]
   },
   {
