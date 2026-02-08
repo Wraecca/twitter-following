@@ -20,7 +20,7 @@
   {
     "handle": "@mckaywrigley",
     "name": "Mckay Wrigley",
-    "bio": "I build & teach AI stuff. Founder @TakeoffAI + @AgentShareAI. Come learn to use AI at https://t.co/oJ8PNoAutE.",
+    "bio": "I build & teach AI stuff. Founder @TakeoffAI + @AgentShare. Come learn to use AI at https://t.co/oJ8PNoAutE.",
     "avatar_url": "https://unavatar.io/x/mckaywrigley",
     "tags": [
       "ai-person"
@@ -101,7 +101,7 @@
   {
     "handle": "@steipete",
     "name": "Peter Steinberger 🦞",
-    "bio": "Polyagentmorous. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+    "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
     "avatar_url": "https://unavatar.io/x/steipete",
     "tags": [
       "ai-person"
@@ -336,7 +336,7 @@
   {
     "handle": "@marco_derossi",
     "name": "Marco De Rossi",
-    "bio": "AI Lead @ MetaMask 🦊 ERC-8004 author. Founded & scaled companies in EdTech & Web3. Building the rails for open, user-owned, distributed AI",
+    "bio": "AI Lead @MetaMask 🦊 ERC-8004 author 🤖 Chief Aura Farmer @Agent0Labs | Building the rails for open AI networks",
     "avatar_url": "https://unavatar.io/x/marco_derossi",
     "tags": [
       "personal"
@@ -390,7 +390,7 @@
   {
     "handle": "@deenamousa",
     "name": "Deena Mousa",
-    "bio": "Global health & development @open_phil • Leave me anonymous feedback: https://t.co/0YmbLhC2dj",
+    "bio": "Research & grantmaking my @coeff_giving • Leave me anonymous feedback: https://t.co/0YmbLhC2dj",
     "avatar_url": "https://unavatar.io/x/deenamousa",
     "tags": [
       "personal"
@@ -534,7 +534,7 @@
   {
     "handle": "@ritwikpavan",
     "name": "Ritwik Pavan",
-    "bio": "I share interesting consumer products.",
+    "bio": "I share interesting hardware & robotics.",
     "avatar_url": "https://unavatar.io/x/ritwikpavan",
     "tags": [
       "personal"
@@ -570,7 +570,7 @@
   {
     "handle": "@romainhuet",
     "name": "Romain Huet",
-    "bio": "Head of Developer Experience @OpenAI. Empowering builders with GPT-5, Codex, gpt-oss, and more. Previously, Product Lead @Stripe.",
+    "bio": "You can just build things. Head of Developer Experience @OpenAI, working on Codex. Previously @Stripe.",
     "avatar_url": "https://unavatar.io/x/romainhuet",
     "tags": [
       "ai-person"
@@ -606,19 +606,19 @@
   {
     "handle": "@wangchunshu",
     "name": "Wangchunshu Zhou",
-    "bio": "Building personal superintelligence @OPPO, previously @AIWaves_inc. Former CS PhD student at ETHZ. Former researcher at ByteDance, Intern at MSRA and PYI at AI2",
+    "bio": "Building creative agents @Bytedance now. Previously co-founder & CTO @AIWaves_inc, acquired by @OPPO.",
     "avatar_url": "https://unavatar.io/x/wangchunshu",
     "tags": [
       "personal"
     ]
   },
   {
-    "handle": "@samuelstroschei",
+    "handle": "@samuelstros",
     "name": "Samuel Stroschein",
-    "bio": "version control for ai agents @lixCCS",
-    "avatar_url": "https://unavatar.io/x/samuelstroschei",
+    "bio": "version control system for AI agents @lixCCS",
+    "avatar_url": "https://unavatar.io/x/samuelstros",
     "tags": [
-      "personal"
+      "ai-person"
     ]
   },
   {
@@ -633,7 +633,7 @@
   {
     "handle": "@OfficialLoganK",
     "name": "Logan Kilpatrick",
-    "bio": "Lead product for @GoogleAIStudio & Gemini API. My views!",
+    "bio": "member of the technical staff, working on @GoogleAIStudio & the Gemini API. my views!",
     "avatar_url": "https://unavatar.io/x/OfficialLoganK",
     "tags": [
       "tech-person"
@@ -1021,7 +1021,7 @@
   {
     "handle": "@davidhoang",
     "name": "David Hoang",
-    "bio": "Designer and Investor. AI @Atlassian. Before: @Replit @Webflow @onemedical @blackpixel. Tools that revolutionize the internet.",
+    "bio": "Designer and Investor.",
     "avatar_url": "https://unavatar.io/x/davidhoang",
     "tags": [
       "personal"
@@ -1174,7 +1174,7 @@
   {
     "handle": "@GergelyOrosz",
     "name": "Gergely Orosz",
-    "bio": "Writing @Pragmatic_Eng, the #1 technology newsletter on Substack. Author of @EngGuidebook. Formerly Uber & Skype.",
+    "bio": "Writing @Pragmatic_Eng, the #1 software engineering newsletter on Substack. Author of @EngGuidebook. Formerly Uber & Skype.",
     "avatar_url": "https://unavatar.io/x/GergelyOrosz",
     "tags": [
       "personal"
@@ -1228,7 +1228,7 @@
   {
     "handle": "@dingyi",
     "name": "Ding",
-    "bio": "DEX Newsletter ‣ https://t.co/q1JG1yC1nD Design Engineer News ‣ https://t.co/uHtq1Z3cEU",
+    "bio": "https://t.co/q1JG1yCzdb ‣ https://t.co/uHtq1Z3Kus ‣ https://t.co/6rJeVpe1pD ‣ https://t.co/cP6NQ3keo5  Promote your product  ‣ dingyi@me.com",
     "avatar_url": "https://unavatar.io/x/dingyi",
     "tags": [
       "personal"
@@ -1282,7 +1282,7 @@
   {
     "handle": "@OpenAIDevs",
     "name": "OpenAI Developers",
-    "bio": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq • Resources https://t.co/0AWELwpzJK",
+    "bio": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYqOS • Resources: https://t.co/0AWELwp1Uc",
     "avatar_url": "https://unavatar.io/x/OpenAIDevs",
     "tags": [
       "ai-person"
@@ -1408,7 +1408,7 @@
   {
     "handle": "@DeryaTR_",
     "name": "Derya Unutmaz, MD",
-    "bio": "Professor, biomedical engineer & scientist, immunologist, longevity & cancer immunology. ALL IN ON AI ! Interests: BioAI, robotics, Space Scifi, Singularity",
+    "bio": "Professor scientist, immunologist, biomedical engineer & Biohacker. ALL IN ON AI ! Interests: longevity, BioAI, AI coding, robotics, Space, Scifi, Singularity",
     "avatar_url": "https://unavatar.io/x/DeryaTR_",
     "tags": [
       "personal"
@@ -1417,7 +1417,7 @@
   {
     "handle": "@NotionHQ",
     "name": "Notion",
-    "bio": "Write. Plan. Collaborate. With a little help from AI.",
+    "bio": "The AI workspace that works while you sleep.",
     "avatar_url": "https://unavatar.io/x/NotionHQ",
     "tags": [
       "personal"
@@ -1750,7 +1750,7 @@
   {
     "handle": "@guohao_li",
     "name": "Guohao Li 🐫",
-    "bio": "@Eigent_AI / @CamelAIOrg. Finding the Scaling Laws of Agents. Prev UniofOxford, KaustVision, Intel, Kumo.",
+    "bio": "@Eigent_AI / @CamelAIOrg. Finding the Scaling Laws of Agents. Prev Oxford, KAUST, ETHz, Intel, Kumo.",
     "avatar_url": "https://unavatar.io/x/guohao_li",
     "tags": [
       "personal"
@@ -1804,7 +1804,7 @@
   {
     "handle": "@Saboo_Shubham_",
     "name": "Shubham Saboo",
-    "bio": "Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 91k+ stars) | Author of books on GPT-3 & Neural Search | My views",
+    "bio": "Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 92k+ stars) | Author of books on GPT-3 & Neural Search | My views",
     "avatar_url": "https://unavatar.io/x/Saboo_Shubham_",
     "tags": [
       "personal"
@@ -1822,7 +1822,7 @@
   {
     "handle": "@jianxliao",
     "name": "jian",
-    "bio": "hci × ai researcher | move fast and build things @singular_os | built https://t.co/ppXjJENSsq https://t.co/oKoVrdG5FK https://t.co/wG8JIU7ZxW https://t.co/cO0g5NMLMa https://t.co/75XDRl01F5",
+    "bio": "hci × ai researcher | building @agentbase_ @openoasis_ | prev https://t.co/oKoVrdG5FK https://t.co/wG8JIU7ZxW https://t.co/V2tx7Zuhwt https://t.co/75XDRl01F5",
     "avatar_url": "https://unavatar.io/x/jianxliao",
     "tags": [
       "personal"
@@ -2137,7 +2137,7 @@
   },
   {
     "handle": "@sphere_labs",
-    "name": "Sphere",
+    "name": "Sphere Labs",
     "bio": "Cross-border stablecoin payments for businesses and regulated institutions.   Faster settlement, built on @Sphere.",
     "avatar_url": "https://unavatar.io/x/sphere_labs",
     "tags": [
@@ -2163,10 +2163,10 @@
     ]
   },
   {
-    "handle": "@zkp2p",
-    "name": "ZKP2P",
+    "handle": "@peerxyz",
+    "name": "Peer (Prev. ZKP2P)",
     "bio": "Permissionless and composable on/offramp protocol. Onramp to Base, Solana, Hyperliquid, Ethereum & 20+ chains and offramp to USD, EUR & 20+ currencies!",
-    "avatar_url": "https://unavatar.io/x/zkp2p",
+    "avatar_url": "https://unavatar.io/x/peerxyz",
     "tags": [
       "crypto-entity"
     ]
@@ -2435,7 +2435,7 @@
   {
     "handle": "@abhi1thakur",
     "name": "abhishek",
-    "bio": "AI Search @vespaengine, ex-@huggingface, World's First 4x GM @kaggle, YouTube 120k+: https://t.co/BHnem8fTu5 Note: i make jokes (sometimes good).",
+    "bio": "AI Search @vespaengine, ex-@huggingface, World's First 4x @kaggle GM, YouTube 120k+: https://t.co/BHnem8fTu5 Note: i make jokes (sometimes good).",
     "avatar_url": "https://unavatar.io/x/abhi1thakur",
     "tags": [
       "ai-person"
@@ -2489,7 +2489,7 @@
   {
     "handle": "@chipro",
     "name": "Chip Huyen",
-    "bio": "@aisysbooks AI Engineering: https://t.co/94dv4uTmc9 Designing MLSys: https://t.co/G81hL2dowT Reading @chipslib",
+    "bio": "@aisysbooks @goodailist AI Engineering: https://t.co/94dv4uTU1H Designing MLSys: https://t.co/G81hL2dWmr Reading @chipslib",
     "avatar_url": "https://unavatar.io/x/chipro",
     "tags": [
       "design"
@@ -2543,7 +2543,7 @@
   {
     "handle": "@eugeneyan",
     "name": "Eugene Yan",
-    "bio": "@anthropicai. prev: principal applied scientist @ amazon; led ml @ alibaba, lazada, healthtech.",
+    "bio": "@AnthropicAI. Prev: Principal Applied Scientist @ Amazon; led ML @ Alibaba, Lazada, Healthtech. Bridging the field and the frontier.",
     "avatar_url": "https://unavatar.io/x/eugeneyan",
     "tags": [
       "science"
@@ -2587,7 +2587,7 @@
   },
   {
     "handle": "@L0laL33tz",
-    "name": "L0la L33tz is more fun on Nostr",
+    "name": "L0la L33tz",
     "bio": "Independent Journalist. Bylines in too many places. \"Anonymous Internet Commentator\" @TheJusticeDept Writes @theragetech tips/corrections: lola@therage.co",
     "avatar_url": "https://unavatar.io/x/L0laL33tz",
     "tags": [
@@ -2787,7 +2787,7 @@
   {
     "handle": "@Balancer",
     "name": "Balancer",
-    "bio": "Build On Balancer https://t.co/6n6NoFwOQ5",
+    "bio": "Programmable AMM infrastructure. Build On Balancer.",
     "avatar_url": "https://unavatar.io/x/Balancer",
     "tags": [
       "tech-entity"
@@ -3165,7 +3165,7 @@
   {
     "handle": "@seflless",
     "name": "Francois Laberge ✍️",
-    "bio": "Founder Decode. Building a whiteboard for you and your coding agents. 🇨🇦 transplanted to 🇺🇸",
+    "bio": "Founder Decode. Building a whiteboard for you and your coding agents.",
     "avatar_url": "https://unavatar.io/x/seflless",
     "tags": [
       "tech-person"
@@ -3471,7 +3471,7 @@
   {
     "handle": "@terrarekt",
     "name": "terra",
-    "bio": "Ops and Product Support Specialist. Current at @TermMaxFi | @SeekersAlliance Prev at @perpprotocol | @crypto_unicorns |",
+    "bio": "Ops and Product Support Specialist. Current at @TermMaxFi Volunteering at @SeekersAlliance Prev at @perpprotocol | @crypto_unicorns |",
     "avatar_url": "https://unavatar.io/x/terrarekt",
     "tags": [
       "crypto-entity"
@@ -3816,7 +3816,7 @@
   {
     "handle": "@OpenAI",
     "name": "OpenAI",
-    "bio": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+    "bio": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
     "avatar_url": "https://unavatar.io/x/OpenAI",
     "tags": [
       "ai-entity"
@@ -3825,7 +3825,7 @@
   {
     "handle": "@elevenlabsio",
     "name": "ElevenLabs",
-    "bio": "AI research and products that reimagine human-technology interaction. Leading foundational models powering Agents and Creative Platforms.",
+    "bio": "AI research and products that transform how we interact with technology.   Leading foundational models powering ElevenAgents, ElevenCreative, and ElevenAPI.",
     "avatar_url": "https://unavatar.io/x/elevenlabsio",
     "tags": [
       "ai-entity"
@@ -3880,7 +3880,7 @@
   {
     "handle": "@LiorOnAI",
     "name": "Lior Alexander",
-    "bio": "Covering the latest dev news in AI • Founder @AlphaSignalAI (250k users) ML Eng since 2017 • Ex-Mila • MIT Lecturer",
+    "bio": "Covering the latest dev news in AI • Founder @AlphaSignalAI (250k users) ML Eng since 2017 • Ex-Mila",
     "avatar_url": "https://unavatar.io/x/LiorOnAI",
     "tags": [
       "finance-person"
@@ -4702,7 +4702,7 @@
   {
     "handle": "@aadams",
     "name": "Austin Adams",
-    "bio": "building @whetstonedotcc | advising @variantfund | prev @uniswap",
+    "bio": "building @dopplerprotocol | advising @variantfund | prev @uniswap",
     "avatar_url": "https://unavatar.io/x/aadams",
     "tags": [
       "crypto-person"
@@ -5105,7 +5105,7 @@
   {
     "handle": "@shreydiwjain",
     "name": "Shrey Jain",
-    "bio": "@Microsoft. Previously Special Projects @MSFTResearch, Eng Sci @UofT. Views are my own.",
+    "bio": "@Microsoft. Prev Eng Sci @UofT. Views are my own.",
     "avatar_url": "https://unavatar.io/x/shreydiwjain",
     "tags": [
       "ai-person"
@@ -5591,7 +5591,7 @@
   },
   {
     "handle": "@_storysmyth",
-    "name": "ᛗak (sensitive middle-aged man)",
+    "name": "mak",
     "bio": "Narrative architecture. Mythic signal. Strategic storycraft.  Thinker, synthesist, and storyteller exploring agency and personal sovereignty in modern life.",
     "avatar_url": "https://unavatar.io/x/_storysmyth",
     "tags": [
@@ -5700,7 +5700,7 @@
   {
     "handle": "@mindaoyang",
     "name": "Mindao",
-    "bio": "Perpetual Optimism | #investing, social movement, my opinion is mine (乱弹琴）",
+    "bio": "Perpetual Optimism | #investing, AI, crypto, social movement, my opinion is mine (乱弹琴）",
     "avatar_url": "https://unavatar.io/x/mindaoyang",
     "tags": [
       "crypto-entity"
@@ -6161,7 +6161,7 @@
   },
   {
     "handle": "@MonetSupply",
-    "name": "monetsupply.eth 🛡️",
+    "name": "monetsupply.eth 🇭🇰 Consensus",
     "bio": "head of strategy @sparkdotfi, prev @blockanalitica, angel investor",
     "avatar_url": "https://unavatar.io/x/MonetSupply",
     "tags": [
@@ -6355,7 +6355,7 @@
   {
     "handle": "@jchervinsky",
     "name": "Jake Chervinsky",
-    "bio": "Lawyer, but not yours. CLO @variantfund. Board @fund_defi + @blockchainassn. Posts are not legal or financial advice.",
+    "bio": "Lawyer, but not yours. Building something new. Board @fund_defi + @blockchainassn. Advisor @variantfund. Posts are not legal or financial advice.",
     "avatar_url": "https://unavatar.io/x/jchervinsky",
     "tags": [
       "crypto-person"
@@ -6364,7 +6364,7 @@
   {
     "handle": "@n2ckchong",
     "name": "Nick",
-    "bio": "fast typer @ethena_labs, ex-@paraficapital",
+    "bio": "fast typer @ethena, ex-@paraficapital",
     "avatar_url": "https://unavatar.io/x/n2ckchong",
     "tags": [
       "tech-entity"
@@ -6401,7 +6401,7 @@
   {
     "handle": "@MrAndersonChen",
     "name": "Anderson",
-    "bio": "I build to earn, Founder @DappPocket (acq), Co-organizer @ETHTaipei, MCS @NTU_TW",
+    "bio": "I build to earn, Founder @DappPocket (acq), Organizer @ETHTaipei, CS @NTU_TW",
     "avatar_url": "https://unavatar.io/x/MrAndersonChen",
     "tags": [
       "crypto-person"
@@ -6419,7 +6419,7 @@
   {
     "handle": "@stevenmeets",
     "name": "Steven Meets 👉🎮",
-    "bio": "👉🎮 VC @PressStartCap | ⏪Previously: cross-border @techstars, cofounder @primacinema, product @unitedtalent, growth&UX @divxllc | 📩DMs open for brainstorming",
+    "bio": "👉🎮 VC @PressStartCap | ⏪Previously: cross-border @techstars, cofounder @primacinema, product @unitedtalent, growth&UX @divxllc",
     "avatar_url": "https://unavatar.io/x/stevenmeets",
     "tags": [
       "vc-person"
@@ -6482,7 +6482,7 @@
   {
     "handle": "@_Dave__White_",
     "name": "Dave White",
-    "bio": "exploring connection with the sand gods | research advisor @paradigm",
+    "bio": "human trying to understand | research advisor @paradigm",
     "avatar_url": "https://unavatar.io/x/_Dave__White_",
     "tags": [
       "crypto-person"
@@ -6726,7 +6726,7 @@
   {
     "handle": "@mablejiang",
     "name": "mable.sol (join our TG community!",
-    "bio": "Make @trendsdotfun awesome 👉 BEST feed for tokenized trends: https://t.co/tbjUGa2qJK / https://t.co/cKpMWRmmbI | HODLong 后浪 Pod @hodlongpod | grew @fslweb3 @multicoin",
+    "bio": "Make @trendsdotfun awesome 👉 BEST feed for tokenized trends: https://t.co/tbjUGa2qJK | HODLong 后浪 Pod @hodlongpod | grew @fslweb3 @multicoin | 宕机版 @mablemeibao",
     "avatar_url": "https://unavatar.io/x/mablejiang",
     "tags": [
       "crypto-entity"
@@ -6744,7 +6744,7 @@
   {
     "handle": "@SpencerApplebau",
     "name": "Spencer Applebaum",
-    "bio": "investor @multicoin opinion's not investment advice. read our blog for the best research in crypto - https://t.co/vqCL2J4gaj fan @lions",
+    "bio": "investment partner @multicoin | opinions not investment advice | read our blog for great crypto research https://t.co/vqCL2J4gaj  fan @lions & @pennstatefball",
     "avatar_url": "https://unavatar.io/x/SpencerApplebau",
     "tags": [
       "crypto-person"
@@ -7035,7 +7035,7 @@
   {
     "handle": "@sriramk",
     "name": "Sriram Krishnan",
-    "bio": "work on AI at the @whitehouse. read/subscribe: https://t.co/VIQU0kwDs9 official: @skrishnan47",
+    "bio": "work on AI at the @whitehouse. pro wrestling fan. official: @skrishnan47",
     "avatar_url": "https://unavatar.io/x/sriramk",
     "tags": [
       "ai-person"
@@ -7053,7 +7053,7 @@
   {
     "handle": "@danwwang",
     "name": "Dan Wang",
-    "bio": "The secure transport of light: Investigating industry and technology at Hoover History Lab",
+    "bio": "The secure transport of light; Breakneck; industrial research at the Hoover History Lab",
     "avatar_url": "https://unavatar.io/x/danwwang",
     "tags": [
       "politics"
@@ -7098,7 +7098,7 @@
   {
     "handle": "@willywoo",
     "name": "Willy Woo",
-    "bio": "I do numbers, mainly #Bitcoin related. I only post here, all other channels including Telegram are scams. Co-founder: @bitcoinvector and @crestfund",
+    "bio": "I do numbers, mainly #Bitcoin related. I only post here, all other channels including Telegram are scams.",
     "avatar_url": "https://unavatar.io/x/willywoo",
     "tags": [
       "crypto-trader",
@@ -7163,7 +7163,7 @@
   {
     "handle": "@SBF_FTX",
     "name": "SBF",
-    "bio": "SBF's words. Shared by a friend.  ✉️ (monitored): Samuel Bankman-Fried 37244-510, FCI Terminal Island, PO Box 3007, San Pedro, CA 90733",
+    "bio": "SBF's words. Posted through a proxy.  ✉️ (monitored): Samuel Bankman-Fried 37244-510, FCI Terminal Island, PO Box 3007, San Pedro, CA 90733",
     "avatar_url": "https://unavatar.io/x/SBF_FTX",
     "tags": [
       "crypto-entity"
@@ -7379,7 +7379,7 @@
   {
     "handle": "@TaylorPearsonMe",
     "name": "Taylor Pearson",
-    "bio": "Into after-tax total return, the quality without a name, and a well-aged shitpost.  Reality has a surprising amount of detail. I'm into the details.",
+    "bio": "Into After-tax total return, the quality without a name, and artisanal memes.  Reality has a surprising amount of detail. I like details.",
     "avatar_url": "https://unavatar.io/x/TaylorPearsonMe",
     "tags": [
       "finance-person"
@@ -7901,7 +7901,7 @@
   {
     "handle": "@nic_carter",
     "name": "nic carter",
-    "bio": "https://t.co/mQ5frnwUMV",
+    "bio": "overton window opener | https://t.co/mQ5frnwUMV",
     "avatar_url": "https://unavatar.io/x/nic_carter",
     "tags": [
       "crypto-entity"
@@ -8504,7 +8504,7 @@
   {
     "handle": "@KyleSamani",
     "name": "Kyle Samani",
-    "bio": "Managing Partner @multicoin. Chairman @fwdind. Opinions are my own; not a solicitation; not an offer for investment advisory services",
+    "bio": "Chairman @fwdind. Figuring out what’s next after a wild run as Cofounder and Managing Partner @multicoin",
     "avatar_url": "https://unavatar.io/x/KyleSamani",
     "tags": [
       "personal"
@@ -10098,7 +10098,7 @@
   {
     "handle": "@joshk",
     "name": "Josh Kopelman",
-    "bio": "Father. Husband. VC. INTJ. Dad Joke Lover. Partner @FirstRound.   Proud user of em dashes since before Sam Altman was born.",
+    "bio": "Father. Husband. VC. INTJ. Dad Joke Lover. Partner @FirstRound.",
     "avatar_url": "https://unavatar.io/x/joshk",
     "tags": [
       "personal"
@@ -11070,7 +11070,7 @@
   {
     "handle": "@pmarca",
     "name": "Marc Andreessen 🇺🇸",
-    "bio": "Decent white.",
+    "bio": "Decent white. Spectrum boy.",
     "avatar_url": "https://unavatar.io/x/pmarca",
     "tags": [
       "vc-person"
@@ -11322,7 +11322,7 @@
   {
     "handle": "@kraneland",
     "name": "David Krane",
-    "bio": "CEO+MP @GVteam (@Mill, @StockX, @Uber, @Nothing, @BoredApeYC, @Neuralink, @Nest, @BlueBottleRoast...), Dad to 3, @YPO, sneakerhead, aspiring barista, 🧠",
+    "bio": "CEO+MP @GVteam (@Waymo, @Mill, @StockX, @Uber, @Nothing, @BoredApeYC, @Neuralink, @Nest, @BlueBottleRoast...), Dad to 3, @YPO, sneakerhead, aspiring barista, 🧠",
     "avatar_url": "https://unavatar.io/x/kraneland",
     "tags": [
       "personal"
@@ -13014,7 +13014,7 @@
   {
     "handle": "@dlackty",
     "name": "Richard Lee",
-    "bio": "CTO @tnlmediagene / @GoogleDevExpert @Firebase / @LINE_DEV API Expert",
+    "bio": "CTO @TNLMediagene · NASDAQ: TNMG Digital media & AdTech · Taipei ↔ Tokyo · Opinions mine",
     "avatar_url": "https://unavatar.io/x/dlackty",
     "tags": [
       "personal"
@@ -13149,7 +13149,7 @@
   {
     "handle": "@kevinrose",
     "name": "Kevin Rose",
-    "bio": "Partner @trueventures | Chairman @digg | Podcasts: Diggnation, Random Show w/ @tferriss. Ex: @google, @ouraring, @hodinkee",
+    "bio": "Partner @trueventures | Chairman @digg | Podcasts: Random Show w/ @tferriss, Diggnation rebooted. Ex: @google, Ex: Board of Directors @ouraring, @hodinkee",
     "avatar_url": "https://unavatar.io/x/kevinrose",
     "tags": [
       "politics"
