@@ -1,8 +1,89 @@
 [
   {
+    "handle": "@taalas_inc",
+    "name": "Taalas Inc.",
+    "bio": "The Model is The Computer",
+    "avatar_url": "https://unavatar.io/x/taalas_inc",
+    "tags": [
+      "untagged"
+    ]
+  },
+  {
+    "handle": "@ggerganov",
+    "name": "Georgi Gerganov",
+    "bio": "24th at the Electrica puzzle challenge | https://t.co/baTQS2bdia",
+    "avatar_url": "https://unavatar.io/x/ggerganov",
+    "tags": [
+      "untagged"
+    ]
+  },
+  {
+    "handle": "@howietl",
+    "name": "Howie Liu",
+    "bio": "Cofounder/CEO @ Airtable",
+    "avatar_url": "https://unavatar.io/x/howietl",
+    "tags": [
+      "tech-person"
+    ]
+  },
+  {
+    "handle": "@mattgmarcus",
+    "name": "Matt Marcus",
+    "bio": "Co-Founder & CEO @ModernTreasury (YC S18)",
+    "avatar_url": "https://unavatar.io/x/mattgmarcus",
+    "tags": [
+      "tech-person"
+    ]
+  },
+  {
+    "handle": "@ModernTreasury",
+    "name": "Modern Treasury",
+    "bio": "The most trusted infrastructure for global money movement",
+    "avatar_url": "https://unavatar.io/x/ModernTreasury",
+    "tags": [
+      "untagged"
+    ]
+  },
+  {
+    "handle": "@daytonaio",
+    "name": "Daytona",
+    "bio": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.",
+    "avatar_url": "https://unavatar.io/x/daytonaio",
+    "tags": [
+      "ai-entity"
+    ]
+  },
+  {
+    "handle": "@lefttailguy",
+    "name": "illiquid",
+    "bio": "routers eat the world; consilient software observer; crafting an alchemist's paradise.",
+    "avatar_url": "https://unavatar.io/x/lefttailguy",
+    "tags": [
+      "tech-entity"
+    ]
+  },
+  {
+    "handle": "@HuggingModels",
+    "name": "Hugging Models",
+    "bio": "We're sharing/showcasing best of @huggingface models. Follow to stay in loop. Promoting Open-Source models.",
+    "avatar_url": "https://unavatar.io/x/HuggingModels",
+    "tags": [
+      "untagged"
+    ]
+  },
+  {
+    "handle": "@hypersoren",
+    "name": "Soren Larson",
+    "bio": "applied cybernetics // maths music theory econ @harvard @swarthmore",
+    "avatar_url": "https://unavatar.io/x/hypersoren",
+    "tags": [
+      "untagged"
+    ]
+  },
+  {
     "handle": "@usekernel",
-    "name": "Kernel",
-    "bio": "We're building crazy fast, open source infra for AI agents to access the internet. Trusted by @CashApp, @Rye, and 1000+ others.",
+    "name": "KERNEL",
+    "bio": "we build crazy fast, open source infra for ai agents to access the internet. trusted by @cashapp, @rye, and 1000+ others.",
     "avatar_url": "https://unavatar.io/x/usekernel",
     "tags": [
       "ai-person"
@@ -56,7 +137,7 @@
   {
     "handle": "@michelleefang",
     "name": "Michelle Fang 🌁",
-    "bio": "@stripe startups",
+    "bio": "@stripe startups | ✍️ https://t.co/6ZpkX4oDDo",
     "avatar_url": "https://unavatar.io/x/michelleefang",
     "tags": [
       "finance-person"
@@ -146,7 +227,7 @@
   {
     "handle": "@nurijanian",
     "name": "George from 🕹prodmgmt.world",
-    "bio": "Think like Elite AI PMs • Daily product management skills with AI • Making a system for Product Management without so much guesswork ($99) 👇🏼",
+    "bio": "Can I make everyone a great product manager? I will do my best | Get my product management OS + AI skills for Claude Code/Cursor: https://t.co/ngCnvp77SD",
     "avatar_url": "https://unavatar.io/x/nurijanian",
     "tags": [
       "media"
@@ -354,7 +435,7 @@
   {
     "handle": "@the_nof1",
     "name": "nof1",
-    "bio": "The first AI research lab focused on financial markets",
+    "bio": "The first AI research lab focused on financial markets. Creators of Alpha Arena. Mission: build the first superhuman trading agent.",
     "avatar_url": "https://unavatar.io/x/the_nof1",
     "tags": [
       "personal"
@@ -416,8 +497,8 @@
   },
   {
     "handle": "@deenamousa",
-    "name": "Deena Mousa",
-    "bio": "Research & grantmaking @coeff_giving • Leave me anonymous feedback: https://t.co/0YmbLhC2dj",
+    "name": "Deena Mousa (at the India AI Summit)",
+    "bio": "Research & grantmaking @coeff_giving • Leave me anonymous feedback: https://t.co/0YmbLhCA2R",
     "avatar_url": "https://unavatar.io/x/deenamousa",
     "tags": [
       "personal"
@@ -451,12 +532,12 @@
     ]
   },
   {
-    "handle": "@Yangyixxxx",
+    "handle": "@yangyi",
     "name": "Yangyi",
     "bio": "- Believing is seeing  - Reverb Marketing Evangelist",
-    "avatar_url": "https://unavatar.io/x/Yangyixxxx",
+    "avatar_url": "https://unavatar.io/x/yangyi",
     "tags": [
-      "personal"
+      "untagged"
     ]
   },
   {
@@ -507,7 +588,7 @@
   {
     "handle": "@cognition",
     "name": "Cognition",
-    "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
+    "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4Vik4P",
     "avatar_url": "https://unavatar.io/x/cognition",
     "tags": [
       "science"
@@ -660,7 +741,7 @@
   {
     "handle": "@OfficialLoganK",
     "name": "Logan Kilpatrick",
-    "bio": "member of the technical staff, working on @GoogleAIStudio & the Gemini API. my views!",
+    "bio": "Member of the technical staff, working on @GoogleAIStudio, the Gemini API, & Kaggle. My views!",
     "avatar_url": "https://unavatar.io/x/OfficialLoganK",
     "tags": [
       "tech-person"
@@ -769,7 +850,7 @@
   {
     "handle": "@ethereumhouseSF",
     "name": "Ethereum House",
-    "bio": "A builders studio in SF’s @frontiertower to support next generation of founders accelerating the application layer. Join TG: https://t.co/WXemKF0qH3",
+    "bio": "A builders studio in SF’s @frontiertower to support next generation of founders accelerating the application layer. Join as member: https://t.co/iqyKwEO7qQ",
     "avatar_url": "https://unavatar.io/x/ethereumhouseSF",
     "tags": [
       "crypto-person"
@@ -1822,7 +1903,7 @@
   {
     "handle": "@mattshumer_",
     "name": "Matt Shumer",
-    "bio": "CEO @HyperWriteAI, @OthersideAI, investing via Shumer Capital in @GroqInc @Etched @Rork_App @DaytonaIO @OpenRouterAI + more",
+    "bio": "CEO @HyperWriteAI, @OthersideAI, investing via Shumer Capital in @GroqInc @Etched @Rork_App @DaytonaIO @OpenRouter + more  Press: mattshumermedia@gmail.com",
     "avatar_url": "https://unavatar.io/x/mattshumer_",
     "tags": [
       "personal"
@@ -1831,7 +1912,7 @@
   {
     "handle": "@Saboo_Shubham_",
     "name": "Shubham Saboo",
-    "bio": "Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 94k+ stars) | Author of books on GPT-3 & Neural Search | My views",
+    "bio": "Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 95k+ stars) | Author of books on GPT-3 & Neural Search | My views",
     "avatar_url": "https://unavatar.io/x/Saboo_Shubham_",
     "tags": [
       "personal"
@@ -1849,7 +1930,7 @@
   {
     "handle": "@jianxliao",
     "name": "jian",
-    "bio": "hci × ai researcher | dabbling @tinyAGI_ @openoasis_ | built https://t.co/ppXjJENSsq https://t.co/oKoVrdG5FK https://t.co/wG8JIU7ZxW https://t.co/V2tx7Zuhwt https://t.co/75XDRl01F5",
+    "bio": "hci × ai researcher | @tinyagicompany @openoasis_ | built https://t.co/ppXjJENSsq https://t.co/oKoVrdG5FK https://t.co/wG8JIU7ZxW https://t.co/V2tx7Zuhwt https://t.co/75XDRl01F5",
     "avatar_url": "https://unavatar.io/x/jianxliao",
     "tags": [
       "personal"
@@ -1876,7 +1957,7 @@
   {
     "handle": "@saylor",
     "name": "Michael Saylor",
-    "bio": "#Bitcoin is https://t.co/KbbYe745r3 | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHqyh | free education https://t.co/4L1s0iwzQ6 | $MSTR $STRC",
+    "bio": "Bitcoin is https://t.co/KbbYe745r3 | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHqyh | free education https://t.co/4L1s0iwzQ6 | $MSTR $STRC",
     "avatar_url": "https://unavatar.io/x/saylor",
     "tags": [
       "personal"
@@ -2201,7 +2282,7 @@
   {
     "handle": "@ryolu_",
     "name": "Ryo Lu",
-    "bio": "Head of Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+    "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
     "avatar_url": "https://unavatar.io/x/ryolu_",
     "tags": [
       "ai-person"
@@ -2390,7 +2471,7 @@
   {
     "handle": "@JundeMorsenWu",
     "name": "JUNDE WU",
-    "bio": "Human/AI Phd @UniofOxford. Prev. Founder of Panoptes (acq. @SenseTime_AI). Senior Scientist @Baidu_Inc. Consultant @DEShawResearch.",
+    "bio": "Building @onecontext_ai. Phd @UniofOxford. Founder of Panoptes (acq. @SenseTime_AI). Senior Scientist @Baidu_Inc.",
     "avatar_url": "https://unavatar.io/x/JundeMorsenWu",
     "tags": [
       "science"
@@ -2523,12 +2604,12 @@
     ]
   },
   {
-    "handle": "@OpenRouterAI",
+    "handle": "@OpenRouter",
     "name": "OpenRouter",
     "bio": "Discover and use the latest LLMs. 500+ models (incl. 50+ free), explorable data, private chat, & a unified API. https://t.co/qJG5mKrigL",
-    "avatar_url": "https://unavatar.io/x/OpenRouterAI",
+    "avatar_url": "https://unavatar.io/x/OpenRouter",
     "tags": [
-      "ai-entity"
+      "untagged"
     ]
   },
   {
@@ -2938,12 +3019,12 @@
     ]
   },
   {
-    "handle": "@MagicNewton",
+    "handle": "@newton_xyz",
     "name": "Newton",
     "bio": "Newton Protocol is the policy engine for RWAs, stablecoins, agentic AI & the $250T asset market. Pre-transaction risk management onchain. Secured by $NEWT.",
-    "avatar_url": "https://unavatar.io/x/MagicNewton",
+    "avatar_url": "https://unavatar.io/x/newton_xyz",
     "tags": [
-      "politics"
+      "crypto-entity"
     ]
   },
   {
@@ -3336,7 +3417,7 @@
   {
     "handle": "@jaycheninfo",
     "name": "陳家煜",
-    "bio": "大學教授，股票、歷史、政治、經濟、商業、科技 &「普通人的自由主義」作者",
+    "bio": "美國大學教授，股票、歷史、政治、經濟、商業、科技 &「普通人的自由主義」作者；訂閱每日更新電子報：https://t.co/ifAK7ucbOd",
     "avatar_url": "https://unavatar.io/x/jaycheninfo",
     "tags": [
       "media"
@@ -3933,7 +4014,7 @@
   },
   {
     "handle": "@star_okx",
-    "name": "Star",
+    "name": "Star_OKX",
     "bio": "Founder & CEO of OKX (since 2013). Crypto will eat the world. Self-custody is the future. Everything will be onchain. Tweets not financial advice.",
     "avatar_url": "https://unavatar.io/x/star_okx",
     "tags": [
@@ -4629,7 +4710,7 @@
   {
     "handle": "@IDrawCharts",
     "name": "David Holt 🌴",
-    "bio": "Opinion not for sale.  DMs open but I probably won't read them.  I love you.",
+    "bio": "Working on Solana at @raikucom, opinion not for sale.  I love you.",
     "avatar_url": "https://unavatar.io/x/IDrawCharts",
     "tags": [
       "crypto-trader",
@@ -5095,8 +5176,8 @@
   },
   {
     "handle": "@myanTokenGeek",
-    "name": "Yan Meng @ Solv Protocol | ERC-3525",
-    "bio": "Cofounder of Solv Protocol; ERC-3525, Tokenomics & RWA evangelist",
+    "name": "孟岩-Mike Meng",
+    "bio": "System Thinker; Cryptp/RWA Value Investor; Cofounder of Solv Protocol; AI 时代的 RWA 价值投资者",
     "avatar_url": "https://unavatar.io/x/myanTokenGeek",
     "tags": [
       "crypto-person"
@@ -5583,7 +5664,7 @@
   {
     "handle": "@_storysmyth",
     "name": "mak",
-    "bio": "Narrative architecture. Mythic signal. Strategic storycraft.  Thinker, synthesist, and storyteller exploring agency and personal sovereignty in modern life.",
+    "bio": "human born at a certain time in a certain place making views extrapolated from these details",
     "avatar_url": "https://unavatar.io/x/_storysmyth",
     "tags": [
       "finance-entity"
@@ -5899,7 +5980,7 @@
   {
     "handle": "@dcoxpolls",
     "name": "Daniel Cox",
-    "bio": "Director of @amersurveyctr @AEI, Writing UNCOUPLED for @penguinrandom, @ChelseaFC fan, Newsletter: https://t.co/x818PJ7eWQ",
+    "bio": "Director of @amersurveyctr @AEI, Writing GENERATION UNCOUPLED for @penguinrandom, @ChelseaFC fan, Newsletter: https://t.co/ox2fXorokM",
     "avatar_url": "https://unavatar.io/x/dcoxpolls",
     "tags": [
       "politics"
@@ -6152,7 +6233,7 @@
   },
   {
     "handle": "@MonetSupply",
-    "name": "monetsupply.eth 🇭🇰 Consensus",
+    "name": "monetsupply.eth 🏔️ ETH Denver",
     "bio": "head of strategy @sparkdotfi, prev @blockanalitica, angel investor",
     "avatar_url": "https://unavatar.io/x/MonetSupply",
     "tags": [
@@ -6337,7 +6418,7 @@
   {
     "handle": "@jchervinsky",
     "name": "Jake Chervinsky",
-    "bio": "Lawyer, but not yours. Building something new. Board @fund_defi + @blockchainassn. Advisor @variantfund. Posts are not legal or financial advice.",
+    "bio": "Lawyer, but not yours. CEO @HyperliquidPC. Board @fund_defi + @blockchainassn. Advisor @variantfund. Posts are not legal / financial advice.",
     "avatar_url": "https://unavatar.io/x/jchervinsky",
     "tags": [
       "crypto-person"
@@ -6401,7 +6482,7 @@
   {
     "handle": "@stevenmeets",
     "name": "Steven Meets 👉🎮",
-    "bio": "👉🎮 VC @PressStartCap | ⏪Previously: cross-border @techstars, cofounder @primacinema, product @unitedtalent, growth&UX @divxllc",
+    "bio": "👉🎮 1st check VC @PressStartCap | ⏪Previously: cross-border @techstars, cofounder/CPO @primacinema, product @unitedtalent, growth&UX @divxllc",
     "avatar_url": "https://unavatar.io/x/stevenmeets",
     "tags": [
       "vc-person"
@@ -6726,7 +6807,7 @@
   {
     "handle": "@SpencerApplebau",
     "name": "Spencer Applebaum",
-    "bio": "investment partner @multicoin | opinions not investment advice | read our blog for great crypto research https://t.co/vqCL2J4gaj  fan @lions & @pennstatefball",
+    "bio": "partner @multicoin | not investment advice | read our blog for the best research and insights in crypto https://t.co/vqCL2J4gaj  fan @lions & @pennstatefball",
     "avatar_url": "https://unavatar.io/x/SpencerApplebau",
     "tags": [
       "crypto-person"
@@ -7145,7 +7226,7 @@
   {
     "handle": "@SBF_FTX",
     "name": "SBF",
-    "bio": "SBF's words. Posted through a proxy.  ✉️ (monitored): Samuel Bankman-Fried 37244-510, FCI Terminal Island, PO Box 3007, San Pedro, CA 90733",
+    "bio": "SBF's words. Posted through a proxy.  (We can use BOP-approved phone calls / emails to tell others what to post on our socials.)  Follows ≠ endorsements.",
     "avatar_url": "https://unavatar.io/x/SBF_FTX",
     "tags": [
       "crypto-entity"
@@ -7883,7 +7964,7 @@
   {
     "handle": "@nic_carter",
     "name": "nic carter",
-    "bio": "overton window opener | https://t.co/mQ5frnwUMV",
+    "bio": "permanent underclass escaper | https://t.co/mQ5frnwUMV",
     "avatar_url": "https://unavatar.io/x/nic_carter",
     "tags": [
       "crypto-entity"
@@ -8568,7 +8649,7 @@
   {
     "handle": "@jessewldn",
     "name": "Jesse Walden",
-    "bio": "founder/gp @variantfund",
+    "bio": "founder @variantfund",
     "avatar_url": "https://unavatar.io/x/jessewldn",
     "tags": [
       "personal"
@@ -9063,7 +9144,7 @@
   {
     "handle": "@ShaneLegg",
     "name": "Shane Legg",
-    "bio": "Chief AGI Scientist & Co-Founder, Google DeepMind",
+    "bio": "Chief AGI Scientist & Co-Founder, Google DeepMind  Work website: https://t.co/E4SyeGVYXk Personal blog: https://t.co/LL9JNdNpW1",
     "avatar_url": "https://unavatar.io/x/ShaneLegg",
     "tags": [
       "ai-person"
@@ -10251,7 +10332,7 @@
   {
     "handle": "@jtwald",
     "name": "justin waldron",
-    "bio": "founder @ogprotocol founder @zynga, @playco",
+    "bio": "founder @playdotfunsol founder @zynga, @playco",
     "avatar_url": "https://unavatar.io/x/jtwald",
     "tags": [
       "personal"
@@ -13221,7 +13302,7 @@
   {
     "handle": "@cjin",
     "name": "Cjin",
-    "bio": "https://t.co/NCmVjSHKPP in saas and crypto |  Co-founded @CubieApp +2 |  Tweets in Ch & En",
+    "bio": "https://t.co/NCmVjSHKPP  |  Co-founded @CubieApp +2 |  Tweets in Ch & En",
     "avatar_url": "https://unavatar.io/x/cjin",
     "tags": [
       "personal"
