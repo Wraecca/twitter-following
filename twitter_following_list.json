@@ -1,5 +1,14 @@
 [
   {
+    "handle": "@turingou",
+    "name": "郭宇 guoyu.eth",
+    "bio": "Retired. 只活一次等于没活。",
+    "avatar_url": "https://unavatar.io/x/turingou",
+    "tags": [
+      "crypto-person"
+    ]
+  },
+  {
     "handle": "@taalas_inc",
     "name": "Taalas Inc.",
     "bio": "The Model is The Computer",
@@ -11,7 +20,7 @@
   {
     "handle": "@ggerganov",
     "name": "Georgi Gerganov",
-    "bio": "24th at the Electrica puzzle challenge | https://t.co/baTQS2bdia",
+    "bio": "24th at the Electrica puzzle challenge | building https://t.co/baTQS2bdia | engineer @huggingface",
     "avatar_url": "https://unavatar.io/x/ggerganov",
     "tags": [
       "untagged"
@@ -128,7 +137,7 @@
   {
     "handle": "@mckaywrigley",
     "name": "Mckay Wrigley",
-    "bio": "I build & teach AI stuff. Founder @TakeoffAI + @AgentShare. Come learn to use AI at https://t.co/oJ8PNoAutE.",
+    "bio": "I build & teach AI stuff. Founder @TakeoffAI + @AgentShare.",
     "avatar_url": "https://unavatar.io/x/mckaywrigley",
     "tags": [
       "ai-person"
@@ -489,7 +498,7 @@
   {
     "handle": "@flyingtulip_",
     "name": "flyingtulip.com",
-    "bio": "https://t.co/J1nh6zxRUN  Backed by Brevan Howard Digital, CoinFund, FalconX, Lemniscap, Nascent, Selini, Sigil Fund, Susquehanna Crypto.",
+    "bio": "https://t.co/J1nh6zxRUN  Backed by Amber Group, CoinFund, FalconX, Fasanara Digital, Lemniscap, Nascent, Sigil Fund, Susquehanna Crypto, Tioga Capital, and more.",
     "avatar_url": "https://unavatar.io/x/flyingtulip_",
     "tags": [
       "personal"
@@ -497,8 +506,8 @@
   },
   {
     "handle": "@deenamousa",
-    "name": "Deena Mousa (at the India AI Summit)",
-    "bio": "Research & grantmaking @coeff_giving • Leave me anonymous feedback: https://t.co/0YmbLhCA2R",
+    "name": "Deena Mousa",
+    "bio": "Research & grantmaking @coeff_giving • Leave me anonymous feedback: https://t.co/0YmbLhC2dj",
     "avatar_url": "https://unavatar.io/x/deenamousa",
     "tags": [
       "personal"
@@ -534,7 +543,7 @@
   {
     "handle": "@yangyi",
     "name": "Yangyi",
-    "bio": "- Believing is seeing  - Reverb Marketing Evangelist",
+    "bio": "人机协同内容架构师 Reverb Marketing布道者 Yangyi实战手记👉🏻https://t.co/Pkue4jV8hK",
     "avatar_url": "https://unavatar.io/x/yangyi",
     "tags": [
       "untagged"
@@ -967,7 +976,7 @@
   {
     "handle": "@vnovakovski",
     "name": "Vladimir Novakovski",
-    "bio": "Founder CEO @lighter_xyz. Angel @cognition, @modal, @FabricCrypto, @daimopay. Prev cofounder @lunchclubai, ML @Quora, VPE @Addepar, HFT @Citadel",
+    "bio": "Founder CEO @lighter_xyz. Angel @cognition, @modal, @FabricCrypto, @daimo_com. Prev cofounder @lunchclubai, ML @Quora, VPE @Addepar, HFT @Citadel",
     "avatar_url": "https://unavatar.io/x/vnovakovski",
     "tags": [
       "personal"
@@ -1165,7 +1174,7 @@
   {
     "handle": "@zhenthebuilder",
     "name": "Zhen Li",
-    "bio": "created & built @replit agent 0→1 • ship fast • ex-google ai, tiktok ai, microsoft research",
+    "bio": "created & built @replit agent 0→1 | ex-google ai, tiktok ai, microsoft research",
     "avatar_url": "https://unavatar.io/x/zhenthebuilder",
     "tags": [
       "tech-person"
@@ -1353,8 +1362,8 @@
   },
   {
     "handle": "@LORWEN108",
-    "name": "Lorwen C Nagle, PhD",
-    "bio": "Harvard-trained psychologist. Ph.D. @UTAustin. Mental health is wealth. My threads help you build financial success, become fearless, and destroy anxiety.",
+    "name": "Lorwen Harris Nagle, PhD",
+    "bio": "Harvard-trained psychologist. Creator of ART (Anxiety Relief Transformation). Find your pattern → rewire anxiety → reclaim your inner life. ↓",
     "avatar_url": "https://unavatar.io/x/LORWEN108",
     "tags": [
       "science"
@@ -1390,7 +1399,7 @@
   {
     "handle": "@OpenAIDevs",
     "name": "OpenAI Developers",
-    "bio": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq • Resources: https://t.co/0AWELwpzJK",
+    "bio": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
     "avatar_url": "https://unavatar.io/x/OpenAIDevs",
     "tags": [
       "ai-person"
@@ -1903,17 +1912,8 @@
   {
     "handle": "@mattshumer_",
     "name": "Matt Shumer",
-    "bio": "CEO @HyperWriteAI, @OthersideAI, investing via Shumer Capital in @GroqInc @Etched @Rork_App @DaytonaIO @OpenRouter + more  Press: mattshumermedia@gmail.com",
+    "bio": "CEO @HyperWriteAI, @OthersideAI, investing via Shumer Capital in @GroqInc @Etched @Rork @DaytonaIO @OpenRouter + more  Press: mattshumermedia@gmail.com",
     "avatar_url": "https://unavatar.io/x/mattshumer_",
-    "tags": [
-      "personal"
-    ]
-  },
-  {
-    "handle": "@Saboo_Shubham_",
-    "name": "Shubham Saboo",
-    "bio": "Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 95k+ stars) | Author of books on GPT-3 & Neural Search | My views",
-    "avatar_url": "https://unavatar.io/x/Saboo_Shubham_",
     "tags": [
       "personal"
     ]
@@ -2516,7 +2516,7 @@
   {
     "handle": "@omarsar0",
     "name": "elvis",
-    "bio": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New Claude Code cohort: https://t.co/AqEvlVuYdM",
+    "bio": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • Building new AI learning portal: https://t.co/1e8RZKrwFp",
     "avatar_url": "https://unavatar.io/x/omarsar0",
     "tags": [
       "ai-person"
@@ -2795,7 +2795,7 @@
   {
     "handle": "@shaneparrish",
     "name": "Shane Parrish",
-    "bio": "Master the best of what other people have already figured out. Host of The Knowledge Project (https://t.co/1JMXMHLJFw)",
+    "bio": "Master the best of what other people have already figured out. https://t.co/1JMXMHMhv4",
     "avatar_url": "https://unavatar.io/x/shaneparrish",
     "tags": [
       "media"
@@ -3507,7 +3507,7 @@
   {
     "handle": "@ranyi1115",
     "name": "Ran",
-    "bio": "Co-founder @OrderlyNetwork",
+    "bio": "Co-founder @OrderlyNetwork · Building the permissionless exchange layer for humans and agents",
     "avatar_url": "https://unavatar.io/x/ranyi1115",
     "tags": [
       "tech-person"
@@ -4051,7 +4051,7 @@
   {
     "handle": "@mikeneuder",
     "name": "mikeneuder.eth ⟠",
-    "bio": "1st yr phd student @princeton computer science; grocery store sushi aficionado; co ➝ ma ➝ ny ➝ nj;  (cover photo Justin Gerard's \"Morgoth and the Silmarils\")",
+    "bio": "phd student @princeton computer sci; co ➝ ma ➝ ny ➝ nj;  (cover photo \"Birth of a God\" by Gorrem, depicts Leto II in Children of Dune) (it's a good book)",
     "avatar_url": "https://unavatar.io/x/mikeneuder",
     "tags": [
       "science"
@@ -5484,7 +5484,7 @@
   {
     "handle": "@zappaxer",
     "name": "zappaxer.eth",
-    "bio": "expect chaos. crypto. coding. design. music. DeFi. DAO. prev @perpprotocol, PM @metatdex",
+    "bio": "expect chaos. crypto. vibe coding. design. music.",
     "avatar_url": "https://unavatar.io/x/zappaxer",
     "tags": [
       "crypto-entity"
@@ -5664,7 +5664,7 @@
   {
     "handle": "@_storysmyth",
     "name": "mak",
-    "bio": "human born at a certain time in a certain place making views extrapolated from these details",
+    "bio": "human born at a certain time in a certain place expressing views extrapolated from these details",
     "avatar_url": "https://unavatar.io/x/_storysmyth",
     "tags": [
       "finance-entity"
@@ -6446,7 +6446,7 @@
   {
     "handle": "@wilsonhuang",
     "name": "Wilson Huang",
-    "bio": "Eating glass and staring into the abyss. ETH Maxi, crypto entrepreneur/investor, now building AI+Crypto @superintent_ai product for everyone.",
+    "bio": "Eating glass and staring into the abyss. ETH Maxi, crypto entrepreneur/investor, now building AI+Crypto product.",
     "avatar_url": "https://unavatar.io/x/wilsonhuang",
     "tags": [
       "ai-person"
@@ -6500,7 +6500,7 @@
   {
     "handle": "@dAAAb",
     "name": "科技立委葛如鈞 Ko Ju-Chun",
-    "bio": "Legislator of the Legislative Yuan (Congress) Taiwan @SingularityU Alumni, Verified @ https://t.co/pQczU3LF94",
+    "bio": "Legislator of the Legislative Yuan (Congress) Taiwan @SingularityU Alumni, founder of @Basemail_AI",
     "avatar_url": "https://unavatar.io/x/dAAAb",
     "tags": [
       "politics"
@@ -6590,7 +6590,7 @@
   {
     "handle": "@engineers_feed",
     "name": "World of Engineering",
-    "bio": "The most fun way to learn something new everyday. Brother page of @stats_feed YouTube https://t.co/rAUIl0V1xC",
+    "bio": "The most fun way to learn something new everyday.",
     "avatar_url": "https://unavatar.io/x/engineers_feed",
     "tags": [
       "tech-entity"
@@ -7080,7 +7080,7 @@
   {
     "handle": "@pythianism",
     "name": "Vance Spencer",
-    "bio": "Co-founder @hiframework. Tweets not financial advice. Views my own.",
+    "bio": "Co-founder @hiframework. Tweets not financial advice. Views my own. May have assets in positions discussed.",
     "avatar_url": "https://unavatar.io/x/pythianism",
     "tags": [
       "finance-person"
@@ -7991,7 +7991,7 @@
   {
     "handle": "@VinnyLingham",
     "name": "Vinny Lingham",
-    "bio": "Entrepreneur. Armchair Economist. Practical Contrarian. Budding Poker Pro. Chairman & Co-founder @PraxosCap, President and Co-founder @xash_usdx",
+    "bio": "Entrepreneur. Armchair Economist. Practical Contrarian. Budding Poker Pro. Chairman & Co-founder @PraxosCap, President and Co-founder @xash",
     "avatar_url": "https://unavatar.io/x/VinnyLingham",
     "tags": [
       "finance-person"
@@ -9171,7 +9171,7 @@
   {
     "handle": "@rsalakhu",
     "name": "Russ Salakhutdinov",
-    "bio": "UPMC Professor of Computer Science @ CMU,  President Elect ICML Board, VP of Research @ Meta (Multimodal LLMs, AI Agents), ex-Director of AI research at @Apple",
+    "bio": "UPMC Professor of Computer Science @ CMU,  President Elect ICML Board, Ex-VP of Research @ Meta (Multimodal LLMs, AI Agents), ex-Director of AI at @Apple.",
     "avatar_url": "https://unavatar.io/x/rsalakhu",
     "tags": [
       "personal"
@@ -11241,7 +11241,7 @@
   {
     "handle": "@nickbilton",
     "name": "Nick Bilton",
-    "bio": "Special Correspondent, @VanityFair. Author of NYT-bestsellers, \"AMERICAN KINGPIN\" & \"HATCHING TWITTER.\" Documentary filmmaker. Screenwriter, films and TV shows.",
+    "bio": "Former investigative reporter and columnist, @vanityfair and @nytimes. Doc filmmaker. Screenwriter, Producer. Author of multiple WSJ- and NYT-bestselling books.",
     "avatar_url": "https://unavatar.io/x/nickbilton",
     "tags": [
       "personal"
