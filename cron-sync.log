@@ -9,19 +9,3 @@ Total: 1504 accounts
 [2026-03-29 09:55:49] Changes detected: +21 new, -11 removed. Sending Slack notification...
 [2026-03-29 09:55:51] Slack notification sent successfully
 [2026-03-29 09:55:51] Committing and pushing changes...
-[main a6f6572] sync
- Committer: shao <shao@macbookpro.lan>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 3 files changed, 459 insertions(+), 348 deletions(-)
- create mode 100644 cron-sync.log
-fatal: could not read Username for 'https://github.com': Device not configured
